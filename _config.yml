@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiangyi Deng"
-description              : "The Homepage of Dr. Jiangyi Deng."
+description              : "Welcome! This is the homepage of Jiangyi Deng."
 repository               : "ChiangE/chiange.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jiangyi Deng"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Zhejiang, China"
+  bio              : "Ph.D. of Zhejiang University. Focusing on AI (for) security."
+  location         : "Hangzhou, Zhejiang, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=AE7d_1QAAAAJ&hl=zh-CN"
