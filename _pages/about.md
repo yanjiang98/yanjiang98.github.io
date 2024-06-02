@@ -35,7 +35,7 @@ I received my B.E. degree in the College of Electrical Engineering at Zhejiang U
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">S&P 2024</div><img src='images/sophon-img.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">S&P 2024</div><img src='images/sophon-img.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SOPHON: Non-Fine-Tunable Learning to Restrain Task Transferability For Pre-trained Models](https://arxiv.org/pdf/2404.12699)
