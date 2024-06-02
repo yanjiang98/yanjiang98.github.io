@@ -17,16 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Jiangyi Deng, a final-year Ph.D. student at Zhejiang University advised by <a href='https://scholar.google.com/citations?user=FCsdj0YAAAAJ'>Prof. Wenyuan Xu</a> and <a href='https://scholar.google.com/citations?user=ax6CbMgAAAAJ'>Prof. Yanjiao Chen</a>. I have passed my Ph.D. oral defence recently! My research interest includes AI security and AI for security. I have published several papers at the "Big Four" security conferences.
+I am a final-year Ph.D. student at Zhejiang University (ZJU), will soon be joining the Independent Cyber Security Lab (ICSL) at Huawei, having been selected for the "Top Minds" program.
+
+My doctoral research is under the guidance of <a href='https://scholar.google.com/citations?user=FCsdj0YAAAAJ'>Prof. Wenyuan Xu</a> and <a href='https://scholar.google.com/citations?user=ax6CbMgAAAAJ'>Prof. Yanjiao Chen</a> at ZJU. Recently, I successfully defended my Ph.D. thesis. My research interests revolve around AI (for) security and privacy, with a particular focus on the security and safety of (multimodal) large language models (LLMs) recently. I have contributed to several publications in leading security conferences such as IEEE S&P, USENIX Security, and ACM CCS. I am open to academic collaborations and welcome inquiries regarding potential research partnerships.
+
+I received my B.E. degree in the College of Electrical Engineering at Zhejiang University in 2019.
+
+
 <!-- <a href='https://scholar.google.com/citations?user=AE7d_1QAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
-
-I have received my 
-
 
 
 # 🔥 News
-- *2024.5.31*: &nbsp;🎉🎉 I passed my Ph.D. oral defence!
-- *2022.5.20*: &nbsp;🎉🎉 I attended 45th IEEE Symposium on Security and Privacy, San Francisco, CA.
+- *2024.05.31*: &nbsp;🎉🎉 Successfully defended my Ph.D. thesis!
+- *2024.05.20*: &nbsp;🎉🎉 Attended the 45th IEEE Symposium on Security and Privacy in San Francisco, CA, from May 20th to 23rd.
+- *2024.04.06*: &nbsp;🎉🎉 Accepted paper for presentation at the 45th IEEE Symposium on Security and Privacy!
+
 
 # 📝 Publications 
 

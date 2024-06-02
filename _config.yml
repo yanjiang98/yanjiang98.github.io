@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jiangyi Deng"
+  name             : "Jiangyi Deng 邓江毅"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Ph.D. of Zhejiang University. Focusing on AI (for) security."
-  location         : "Hangzhou, Zhejiang, China"
+  location         : "Zhejiang, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=AE7d_1QAAAAJ&hl=zh-CN"
