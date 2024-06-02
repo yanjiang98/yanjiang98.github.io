@@ -45,6 +45,7 @@ I received my B.E. degree in the College of Electrical Engineering at Zhejiang U
 [**Code**](https://github.com/ChiangE/Sophon) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - In this paper, we introduce a pioneering learning paradigm, *non-fine-tunable learning*, which prevents the pre-trained model from being fine-tuned to indecent tasks while preserving its performance on the original task.
 </div>
+</div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 

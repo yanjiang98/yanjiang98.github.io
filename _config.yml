@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiangyi Deng"
-description              : "Welcome! This is the homepage of Jiangyi Deng."
+description              : "Ph.D. focusing on AI (for) security."
 repository               : "ChiangE/chiange.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jiangyi Deng 邓江毅"
+  name             : "Jiangyi Deng\\邓江毅"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Ph.D. of Zhejiang University. Focusing on AI (for) security."
+  bio              : "USSLab, Zhejiang University"
   location         : "Zhejiang, China"
   employer         :
   pubmed           : 
