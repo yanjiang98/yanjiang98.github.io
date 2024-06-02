@@ -71,6 +71,18 @@ I received my B.E. degree in the College of Electrical Engineering at Zhejiang U
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2022</div><img src='images/fencesitter-img.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FenceSitter: Black-box, Content-Agnostic, and Synchronization-Free Enrollment-Phase Attacks on Speaker Recognition Systems](https://dl.acm.org/doi/10.1145/3548606.3559357)
+
+**Jiangyi Deng**, Yanjiao Chen, Wenyuan Xu
+
+[**Presentation**](https://dl.acm.org/doi/10.1145/3548606.3559357) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- In this paper, we explore a new attack surface of SRSs by presenting an enrollment-phase attack paradigm, named FenceSitter, where the adversary poisons the SRS using imperceptible adversarial ambient sound when the legitimate user registers into the SRS.
+</div>
+</div>
+
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
