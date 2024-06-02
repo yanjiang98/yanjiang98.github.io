@@ -95,18 +95,22 @@ I received my B.E. degree in the College of Electrical Engineering at Zhejiang U
 - [Nauth: Secure face-to-face device authentication via nonlinearity](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8737572), Xinyan Zhou, Xiaoyu Ji, Chen Yan, **Jiangyi Deng**, Wenyuan Xu **IEEE INFOCOM 2019**
 
 
-
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.03* Sun Youxian Scholarship, Zhejiang University
+- *2024.03* Outstanding Graduate, Zhejiang University
+- *2023.10* National Scholarship, Zhejiang University
+- *2023.09* Outstanding Graduate Student Cadre, Zhejiang University
+- *2023.09* Outstanding Graduate Student, Zhejiang University
+- *2022.09* Outstanding Graduate Student Cadre, Zhejiang University
+- *2020.09* Outstanding Graduate Student, Zhejiang University
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- # 📖 Educations
+- *2019.09 - 2024.06 (present)*, Ph.D.
+- *2015.09 - 2019.09*, Undergraduate-->
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.05 - 2024.02*, Department of Fundamental Security, [Ant Group](https://www.antgroup.com/), China.
