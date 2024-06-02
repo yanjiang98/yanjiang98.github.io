@@ -47,6 +47,20 @@ I received my B.E. degree in the College of Electrical Engineering at Zhejiang U
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">S&P 2024</div><img src='images/revelio-img-crop.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Catch You and I Can: Revealing Source Voiceprint Against Voice Conversion](https://www.usenix.org/system/files/usenixsecurity23-deng-jiangyi-voiceprint.pdf)
+
+**Jiangyi Deng**, Yanjiao Chen, Yinan Zhong, Qianhao Miao, Xueluan Gong, Wenyuan Xu
+
+[**Presentation**](https://www.youtube.com/watch?v=sz7kKZRT5sg) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- In this paper, we make the first attempt to restore the source voiceprint from audios synthesized by voice conversion methods with high credit. This technique may assist investigations of voice conversion-based phone scam.
+</div>
+</div>
+
+
+
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
