@@ -91,7 +91,7 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 
 - [Alchemy: Data-Free Adversarial Training](), Yijie Bai, Zhongming Ma, Yanjiao Chen, **Jiangyi Deng**, Shengyuan Pang, Yan Liu, Wenyuan Xu. *ACM CCS*, 2024.
 
-- [Dr. Defender: Proactive Detection of Autopilot Drones based on CSI](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10239182), **Jiangyi Deng**, Xiaoyu Ji, Beibei Wang, Bin Wang, Wenyuan Xu. **IEEE TIFS*, 2023.
+- [Dr. Defender: Proactive Detection of Autopilot Drones based on CSI](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10239182), **Jiangyi Deng**, Xiaoyu Ji, Beibei Wang, Bin Wang, Wenyuan Xu. *IEEE TIFS*, 2023.
 
 - [A Nonlinearity-based Secure Face-to-Face Device Authentication for Mobile Devices](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9200789), Xiaoyu Ji, Xinyan Zhou, Chen Yan, **Jiangyi Deng**, Wenyuan Xu. *IEEE TMC*, 2020.
 
@@ -99,13 +99,13 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 
 
 # 🎖 Honors and Awards
-- *2024.03* Sun Youxian Scholarship, Zhejiang University
-- *2024.03* Outstanding Graduate, Zhejiang University
-- *2023.10* National Scholarship, Zhejiang University
-- *2023.09* Outstanding Graduate Student Cadre, Zhejiang University
-- *2023.09* Outstanding Graduate Student, Zhejiang University
-- *2022.09* Outstanding Graduate Student Cadre, Zhejiang University
-- *2020.09* Outstanding Graduate Student, Zhejiang University
+- *2024.03*: &nbsp; Sun Youxian Scholarship, Zhejiang University
+- *2024.03*: &nbsp; Outstanding Graduate, Zhejiang University
+- *2023.10*: &nbsp; National Scholarship, Zhejiang University
+- *2023.09*: &nbsp; Outstanding Graduate Student Cadre, Zhejiang University
+- *2023.09*: &nbsp; Outstanding Graduate Student, Zhejiang University
+- *2022.09*: &nbsp; Outstanding Graduate Student Cadre, Zhejiang University
+- *2020.09*: &nbsp; Outstanding Graduate Student, Zhejiang University
 
 <!-- # 📖 Educations
 - *2019.09 - 2024.06 (present)*, Ph.D.
