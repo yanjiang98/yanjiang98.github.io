@@ -50,7 +50,7 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">USENIX 2023</div><img src='images/revelio-img-crop.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">USENIX 2023</div><img src='images/revelio-img.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Catch You and I Can: Revealing Source Voiceprint Against Voice Conversion](https://www.usenix.org/system/files/usenixsecurity23-deng-jiangyi-voiceprint.pdf)
