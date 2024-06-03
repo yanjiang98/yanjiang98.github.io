@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a final-year Ph.D. student at Zhejiang University (ZJU), will soon be joining the Independent Cyber Security Lab (ICSL) at Huawei, having been selected for the ["Top Minds"](https://career.huawei.com/reccampportal/portal5/topminds.html) program.
+I am a final-year Ph.D. student at Zhejiang University (ZJU), will soon be joining the Independent Cyber Security Lab (ICSL) at Huawei, having been selected for the "[Top Minds](https://career.huawei.com/reccampportal/portal5/topminds.html)" program.
 
 My doctoral research is under the guidance of <a href='https://scholar.google.com/citations?user=FCsdj0YAAAAJ'>Prof. Wenyuan Xu</a> and <a href='https://scholar.google.com/citations?user=ax6CbMgAAAAJ'>Prof. Yanjiao Chen</a> at ZJU. Recently, I successfully defended my Ph.D. thesis. My research interests revolve around AI (for) security and privacy, with a particular focus on the security and safety of (multimodal) large language models (LLMs) recently. I have contributed to several publications in leading security conferences such as IEEE S&P, USENIX Security, and ACM CCS. I am open to academic collaborations and welcome discussions regarding potential research partnerships.
 
