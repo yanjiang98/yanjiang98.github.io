@@ -87,7 +87,7 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 </div>
 
 
-- `CCS 2024` [SafeGen: Mitigating Unsafe Content Generation in Text-to-Image Models](https://arxiv.org/abs/2404.06666). Xinfeng Li, Yuchen Yang, **Jiangyi Deng** (co-first), Chen Yan, Yanjiao Chen, Xiaoyu Ji, Wenyuan Xu. *ACM CCS*, 2024.
+- <div class="badge">CCS 2024</div> [SafeGen: Mitigating Unsafe Content Generation in Text-to-Image Models](https://arxiv.org/abs/2404.06666). Xinfeng Li, Yuchen Yang, **Jiangyi Deng** (co-first), Chen Yan, Yanjiao Chen, Xiaoyu Ji, Wenyuan Xu. *ACM CCS*, 2024.
 
 - `CCS 2024` [Alchemy: Data-Free Adversarial Training](). Yijie Bai, Zhongming Ma, Yanjiao Chen, **Jiangyi Deng**, Shengyuan Pang, Yan Liu, Wenyuan Xu. *ACM CCS*, 2024.
 
@@ -99,13 +99,13 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 
 
 # 🎖 Honors and Awards
-- *2024.03*: &nbsp; Sun Youxian Scholarship, Zhejiang University
-- *2024.03*: &nbsp; Outstanding Graduate, Zhejiang University
-- *2023.10*: &nbsp; National Scholarship, Zhejiang University
-- *2023.09*: &nbsp; Outstanding Graduate Student Cadre, Zhejiang University
-- *2023.09*: &nbsp; Outstanding Graduate Student, Zhejiang University
-- *2022.09*: &nbsp; Outstanding Graduate Student Cadre, Zhejiang University
-- *2020.09*: &nbsp; Outstanding Graduate Student, Zhejiang University
+- *2024.03*: Sun Youxian Scholarship, Zhejiang University
+- *2024.03*: Outstanding Graduate, Zhejiang University
+- *2023.10*: National Scholarship, Zhejiang University
+- *2023.09*: Outstanding Graduate Student Cadre, Zhejiang University
+- *2023.09*: Outstanding Graduate Student, Zhejiang University
+- *2022.09*: Outstanding Graduate Student Cadre, Zhejiang University
+- *2020.09*: Outstanding Graduate Student, Zhejiang University
 
 <!-- # 📖 Educations
 - *2019.09 - 2024.06 (present)*, Ph.D.
