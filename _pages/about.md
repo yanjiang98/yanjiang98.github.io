@@ -49,7 +49,7 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 Jialin Wu, **Jiangyi Deng** (co-first), Shengyuan Pang, Yanjiao Chen, Jiayang Xu, Xinfeng Li, Wenyuan Xu
 
 [**Code**](https://github.com/lin000001/Legilimens) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- In this paper, we reveal for the first time that effective and efficient content moderation can be achieved by extracting conceptual features from chat-oriented LLMs, despite their initial fine-tuning for conversation rather than content moderation. We propose a practical and unified content moderation framework for LLM services, named Legilimens, which features both effectiveness and efficiency. 
+- In this paper, we reveal for the first time that effective and efficient content moderation can be achieved by extracting conceptual features from chat-oriented LLMs, despite their initial fine-tuning for conversation rather than content moderation. We propose a practical and unified content moderation framework for LLM services, named Legilimens, which features both effectiveness and efficiency.
 </div>
 </div>
 
