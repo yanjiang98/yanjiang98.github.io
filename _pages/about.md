@@ -31,6 +31,8 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 
 
 # 🔥 News
+- *2024.08.31*: &nbsp;🎉🎉 One paper is accepted by NDSS 2024!
+- *2024.08.24*: &nbsp;🎉🎉 One paper is accepted by ACM CCS 2024!
 - *2024.05.31*: &nbsp;🎉🎉 Successfully defended my Ph.D. thesis!
 - *2024.05.24*: &nbsp;🎉🎉 One paper is accepted by ACM CCS 2024!
 - *2024.05.20*: &nbsp;🎉🎉 Attended the 45th IEEE Symposium on Security and Privacy in San Francisco, CA, from May 20th to 23rd.
