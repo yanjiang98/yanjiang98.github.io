@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiangyi Deng"
-description              : "Ph.D. at Zhejiang University focusing on AI (for) security and privacy."
+description              : "Security researcher focusing on AI (for) security and privacy."
 repository               : "ChiangE/chiange.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Jiangyi Deng"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "邓江毅"
-  location         : "Zhejiang, China"
+  location         : "Guangdong, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=AE7d_1QAAAAJ&hl=zh-CN"
