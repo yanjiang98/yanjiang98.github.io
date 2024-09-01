@@ -31,8 +31,8 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 
 
 # 🔥 News
-- *2024.08.31*: &nbsp;🎉🎉 One paper is accepted by NDSS 2024!
-- *2024.08.24*: &nbsp;🎉🎉 One paper is accepted by ACM CCS 2024!
+- *2024.08.31*: &nbsp;🎉🎉 Accepted paper for presentation at the NDSS Symposium 2025!
+- *2024.08.24*: &nbsp;🎉🎉 Accepted paper for presentation at the ACM Conference on Computer and Communications Security 2024!
 - *2024.05.31*: &nbsp;🎉🎉 Successfully defended my Ph.D. thesis!
 - *2024.05.24*: &nbsp;🎉🎉 One paper is accepted by ACM CCS 2024!
 - *2024.05.20*: &nbsp;🎉🎉 Attended the 45th IEEE Symposium on Security and Privacy in San Francisco, CA, from May 20th to 23rd.
@@ -41,6 +41,17 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2024</div><img src='images/legilimens-img' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Legilimens: Practical and Unified Content Moderation for Large Language Model Services](https://arxiv.org/pdf/2408.15488)
+
+Jialin Wu, **Jiangyi Deng** (co-first), Shengyuan Pang, Yanjiao Chen, Jiayang Xu, Xinfeng Li, Wenyuan Xu
+
+[**Code**](https://github.com/lin000001/Legilimens) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- In this paper, we reveal for the first time that effective and efficient content moderation can be achieved by extracting conceptual features from chat-oriented LLMs, despite their initial fine-tuning for conversation rather than content moderation. We propose a practical and unified content moderation framework for LLM services, named Legilimens, which features both effectiveness and efficiency. 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">S&P 2024</div><img src='images/sophon-img.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
