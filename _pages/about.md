@@ -50,7 +50,7 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 - *2024.11.27*: &nbsp;🎉🎉 Accepted paper for presentation at the NDSS Symposium 2025!
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NDSS 2025</div><img src='images/legilimens-img.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NDSS 2025</div><img src='images/wight-img.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PowerRadio: Manipulate Sensor Measurement via Power GND Radiation](https://arxiv.org/abs/2412.18103)
