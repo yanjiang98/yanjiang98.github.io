@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jiangyi Deng"
-description              : "Security researcher focusing on AI (for) security and privacy."
-repository               : "ChiangE/chiange.github.io"
+title                    : "Yan Jiang"
+description              : "PhD focusing on IoT security, hardware security."
+repository               : "yanjiang98/yanjiang98.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jiangyi Deng"
+  name             : "Yan Jiang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "邓江毅"
-  location         : "Guangdong, China"
+  bio              : "蒋燕"
+  location         : "Hangzhou, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=AE7d_1QAAAAJ&hl=zh-CN"
-  email            : "jydeng@zju.edu.com"
+  googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=UVy1g7EAAAAJ"
+  email            : "yj98@zju.edu.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ChiangE" # e.g., "github username"
+  github           : "yanjiang98" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
