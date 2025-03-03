@@ -85,7 +85,7 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 </div> -->
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SP 2022</div><img src='images/wight-img.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">S\&P 2022</div><img src='images/wight-img.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [WIGHT: Wired Ghost Touch Attack on Capacitive Touchscreens](https://ieeexplore.ieee.org/document/9833740)
@@ -153,7 +153,7 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 # 📖 Services
 <!-- - Reviewer of *IEEE Transactions on Information Forensics and Security* -->
 <!-- - Reviewer of *ACM Transactions on Privacy and Security* --> 
-- External Reviewer of "Big Four", *i.e.*, *IEEE S&P*, *USENIX Security*, *ACM CCS*, and *NDSS*
+- External Reviewer of "Big Four", *i.e.*, *IEEE S\&P*, *USENIX Security*, *ACM CCS*, and *NDSS*
 - Certificate for Red Cross First Aider (2021.4-2024.4).
 <!-- - Teaching Assistant of *AI and IOT*, at Zhejiang University, *2021.9 - 2022.1*, *2022.9 - 2023.1* -->
 <!-- - Teaching Assistant of *Computer Networking*, at Zhejiang University, *2020.9 - 2021.1*, *2021.2 - 2021.6*  -->
