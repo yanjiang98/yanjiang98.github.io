@@ -58,7 +58,7 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 **Yan Jiang**, Xiaoyu Ji, Yancheng Jiang, Kai Wang, Chenren Xu, Wenyuan Xu
 
 <!-- [**Code**](https://github.com/lin000001/Legilimens) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- In this paper, we open up a new threat vector to sensor measurements and this threat requires public attention to improve the security of sensor systems and malicious power. Specifically, we explore the energy conversion of wired signals, and design the first sensor manipulation attack based on GND radiation and energy conversion, named "PowerRadio". PowerRadio can tamper with the readings of sensors across sockets and household wiring system. We demonstrat the attack effectiveness on both broadcast systems and surveillance systems. 
+- In this paper, we open up a new threat vector to sensor measurements. Specifically, we explore the energy conversion of wired signals, and design a power cable-based sensor manipulation attack, named "PowerRadio". PowerRadio can tamper with sensors' readings across sockets and household wiring system.
 </div>
 </div>
 
@@ -69,7 +69,7 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 
 **Yan Jiang**, Xiaoyu Ji, Kai Wang, Chen Yan, Richard Mitev, Ahmad-Reza Sadeghi, Wenyuan Xu
 
-- In this paper, we study effective detection and protection mechanism for Common-Mode (CM) Signal injection attacks. In particular, we propose an active suppression device based on a three -phase common-mode inductor, which enables designers to effectively detect and filter out common-mode interference signals through this device.
+- In this paper, we study the effective detection and protection methods for common-mode (CM) signal injection attacks. In particular, we propose an active suppression device named "GhostBlocker" based on a three -phase common-mode inductor, which enables designers to effectively detect and filter out common-mode interference signals.
 </div>
 </div>
 
@@ -81,12 +81,12 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 
 **Yan Jiang**, Xiaoyu Ji, Juchuan Zhang, Yancheng Jiang, Shui Jiang, Wenyuan Xu
 
-- In this paper, we present "Capspeaker" attack and ehnace its voice-generation capabilities throug capacitors. Specifically, we design a nonlinear model for the signal crafting process, which significantly improves the recognition success rate of voice assistants. Secondly, we propose a novel software-level defense mechanism that is according to the high-frequency harmonic difference between malicious and legitimate voice commands. Finally, we expand the attack scenraios applicable to the Capspeaker, providing a more comprehensive exploration of its potential threats and implications.
+- In this paper, we provide a more comprehensive exploration of "Capspeaker" potential threats and implications. We design a nonlinear model for optimizing the signal crafting process, which significantly improves the recognition success rate of voice assistants. Secondly, we propose a novel software-level defense mechanism that can distinguish malicious and legitimate voice commands. Finally, we expand the attack scenraios applicable to the Capspeaker.
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">S&P 2022</div><img src='images/wight-img.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SP 2022</div><img src='images/wight-img.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [WIGHT: Wired Ghost Touch Attack on Capacitive Touchscreens](https://ieeexplore.ieee.org/document/9833740)
@@ -122,7 +122,7 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 
 - [Nauth: Secure face-to-face device authentication via nonlinearity](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8737572). Xinyan Zhou, Xiaoyu Ji, Chen Yan, **Jiangyi Deng**, Wenyuan Xu. *IEEE INFOCOM*, 2019. --> -->
 
-# 📝 Patents
+# 📝 Authorized Patents
 - 发明专利：*ZL202011073339.6*-基于机器学习的配电终端 DTU 入侵检测方法和系统. (吕志宁;邓巍;宁柏锋;刘威;罗伟峰;徐文渊;冀晓宇;**蒋燕**;李鹏;习伟)
 - 发明专利：*ZL202310446783.5*-一种基于扫频技术的传感器安全检测方法和系统. (徐文渊;冀晓宇;**蒋燕**;闫琛)
 - 发明专利：*ZL202111394732.X*-一种基于电磁侧信道的设备数字取证装置和取证方法. (徐文渊;冀晓宇;王滨;**蒋燕**;陈加栋;王星)
@@ -157,7 +157,7 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 <!-- - Teaching Assistant of *Computer Networking*, at Zhejiang University, *2020.9 - 2021.1*, *2021.2 - 2021.6*  -->
 <!-- 
 <!-- # 💻 Internships -->
-<!-- - *2023.05 - 2024.02*, Department of Fundamental Security, [Ant Group](https://www.antgroup.com/), China. --> -->
+<!-- - *2023.05 - 2024.02*, Department of Fundamental Security, [Ant Group](https://www.antgroup.com/), China. -->
 
 <!-- # 🗺️ Visitor Map
 
