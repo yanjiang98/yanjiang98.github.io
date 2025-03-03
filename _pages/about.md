@@ -149,7 +149,7 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 <!-- - Reviewer of *IEEE Transactions on Information Forensics and Security* -->
 <!-- - Reviewer of *ACM Transactions on Privacy and Security* --> 
 - External Reviewer of "Big Four", *i.e.*, *IEEE S&P*, *USENIX Security*, *ACM CCS*, and *NDSS*
-- Certificate for Ref Cross First Aider (2021.4-2024.4).
+- Certificate for Red Cross First Aider (2021.4-2024.4).
 <!-- - Teaching Assistant of *AI and IOT*, at Zhejiang University, *2021.9 - 2022.1*, *2022.9 - 2023.1* -->
 <!-- - Teaching Assistant of *Computer Networking*, at Zhejiang University, *2020.9 - 2021.1*, *2021.2 - 2021.6*  -->
 <!-- 
@@ -161,5 +161,6 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5kfn1jf6u04&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script> -->
 
 # 🗺️ Hobbies
-- Half-marathon (21km), (*Hangzhou-Dec-2024-PB 2:00:06,Huzhou-Nov-2024,Nanjing-Mar-2024,ZJU-Nov-2023,Qiandaohu-Dec-2023,Hanzhou-May-2023,*), 6/50
-- Travel, Photography, Badminton 
+- Half-marathon (*21.0975km*): Hangzhou-Dec-2024-**PB 2:00:06**,Huzhou-Nov-2024,Nanjing-Mar-2024,ZJU-Nov-2023,Qiandaohu-Dec-2023,Hanzhou-May-2023, 6/50.
+- Travel, photography
+- Running, fitness, badminton 
