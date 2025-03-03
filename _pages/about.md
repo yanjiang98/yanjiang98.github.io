@@ -50,7 +50,7 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 - *2024.11.27*: &nbsp;🎉🎉 Accepted paper for presentation at the NDSS Symposium 2025!
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NDSS 2025</div><img src='images/wight-img.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NDSS 2025</div><img src='images/powerradio-img.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PowerRadio: Manipulate Sensor Measurement via Power GND Radiation](https://arxiv.org/abs/2412.18103)
@@ -58,59 +58,48 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 **Yan Jiang**, Xiaoyu Ji, Yancheng Jiang, Kai Wang, Chenren Xu, Wenyuan Xu
 
 <!-- [**Code**](https://github.com/lin000001/Legilimens) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- In this paper, we open up a new threat vector to sensor measurements and this threat requires public attention to improve the security of sensor systems and malicious power. Specifically, we explore the energy conversion of wired signals, and design the first sensor manipulation attack based on GND radiation and energy conversion, named "PowerRadio". PowerRadio can tamper with the readings of sensors across sockets and household wiring system. We demonstrat the attack effectiveness on both broadcast systems and surveillance systems. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TDSC 2024</div><img src='images/marionetto-img.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Marionette: Manipulate Your Touchscreen via a Charging Cable](https://ieeexplore.ieee.org/abstract/document/10288382)
+
+**Yan Jiang**, Xiaoyu Ji, Kai Wang, Chen Yan, Richard Mitev, Ahmad-Reza Sadeghi, Wenyuan Xu
+
+- In this paper, we study effective detection and protection mechanism for Common-Mode (CM) Signal injection attacks. In particular, we propose an active suppression device based on a three -phase common-mode inductor, which enables designers to effectively detect and filter out common-mode interference signals through this device.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TDSC 2024</div><img src='images/capspeaker-img.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Capspeaker: Injecting Commands to Voice Assistant via Capacitors](https://ieeexplore.ieee.org/abstract/document/10288392)
+
+**Yan Jiang**, Xiaoyu Ji, Juchuan Zhang, Yancheng Jiang, Shui Jiang, Wenyuan Xu
+
+- In this paper, we present "Capspeaker" attack and ehnace its voice-generation capabilities throug capacitors. Specifically, we design a nonlinear model for the signal crafting process, which significantly improves the recognition success rate of voice assistants. Secondly, we propose a novel software-level defense mechanism that is according to the high-frequency harmonic difference between malicious and legitimate voice commands. Finally, we expand the attack scenraios applicable to the Capspeaker, providing a more comprehensive exploration of its potential threats and implications.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">S&P 2022</div><img src='images/wight-img.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[WIGHT: Wired Ghost Touch Attack on Capacitive Touchscreens](https://ieeexplore.ieee.org/document/9833740)
+
+**Yan Jiang**, Xiaoyu Ji, Kai Wang, Chen Yan, Richard Mitev, Ahmad-Reza Sadeghi, Wenyuan Xu
+
 - In this paper, we reveal for the first time that the capacitive touchscreens on mobile devices like smartphone, tablet and GPS can be remotely manipulated via power cables. We presenst a practical attack named "WIGHT", which can inject fake touches, alter users' touch operations and disable the touchscreen. We verified the feasibility of WIGHT on touchscreen panels and commercial devices of brands like Apple, Huawei and Xiaomi.
 </div>
 </div>
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2024</div><img src='images/legilimens-img.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Legilimens: Practical and Unified Content Moderation for Large Language Model Services](https://arxiv.org/pdf/2408.15488)
 
-Jialin Wu, **Jiangyi Deng** (co-first), Shengyuan Pang, Yanjiao Chen, Jiayang Xu, Xinfeng Li, Wenyuan Xu
-
-[**Code**](https://github.com/lin000001/Legilimens) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- In this paper, we reveal for the first time that effective and efficient content moderation can be achieved by extracting conceptual features from chat-oriented LLMs, despite their initial fine-tuning for conversation rather than content moderation. We propose a practical and unified content moderation framework for LLM services, named Legilimens, which features both effectiveness and efficiency.
-</div>
-</div> -->
-<!-- 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">S&P 2024</div><img src='images/sophon-img.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[SOPHON: Non-Fine-Tunable Learning to Restrain Task Transferability For Pre-trained Models](https://arxiv.org/pdf/2404.12699)
-
-**Jiangyi Deng**, Shengyuan Pang, Yanjiao Chen, Liangming Xia, Yijie Bai, Haiqin Weng, Wenyuan Xu
-
-[**Code**](https://github.com/ChiangE/Sophon) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- In this paper, we introduce a pioneering learning paradigm, *non-fine-tunable learning*, which prevents the pre-trained model from being fine-tuned to indecent tasks while preserving its performance on the original task.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">USENIX 2023</div><img src='images/revelio-img.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Catch You and I Can: Revealing Source Voiceprint Against Voice Conversion](https://www.usenix.org/system/files/usenixsecurity23-deng-jiangyi-voiceprint.pdf)
-
-**Jiangyi Deng**, Yanjiao Chen, Yinan Zhong, Qianhao Miao, Xueluan Gong, Wenyuan Xu
-
-[**Presentation**](https://www.youtube.com/watch?v=sz7kKZRT5sg) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- In this paper, we make the first attempt to restore the source voiceprint from audios synthesized by voice conversion methods with high credit. This technique may assist investigations of voice conversion-based phone scam.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">USENIX 2023</div><img src='images/vcloak-img.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[V-Cloak: Intelligibility-, Naturalness- & Timbre-Preserving Real-Time Voice Anonymization](https://www.usenix.org/system/files/usenixsecurity23-deng-jiangyi-v-cloak.pdf)
-
-**Jiangyi Deng**, Fei Teng, Yanjiao Chen, Xiaofu Chen, Zhaohui Wang, Wenyuan Xu
-
-[**Demo**](https://v-cloak.github.io/) [**Code**](https://github.com/V-Cloak/V-Cloak) [**Presentation**](https://www.youtube.com/watch?v=bDVgfSyjPDo) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- In this paper, we develop a voice anonymization system, named V-Cloak, which attains real-time voice anonymization while preserving the intelligibility, naturalness and timbre of the audio.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2022</div><img src='images/fencesitter-img.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2022</div><img src='images/fencesitter-img.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [FenceSitter: Black-box, Content-Agnostic, and Synchronization-Free Enrollment-Phase Attacks on Speaker Recognition Systems](https://dl.acm.org/doi/10.1145/3548606.3559357)
@@ -120,9 +109,9 @@ Jialin Wu, **Jiangyi Deng** (co-first), Shengyuan Pang, Yanjiao Chen, Jiayang Xu
 [**Presentation**](https://dl.acm.org/doi/10.1145/3548606.3559357) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - In this paper, we explore a new attack surface of SRSs by presenting an enrollment-phase attack paradigm, named FenceSitter, where the adversary poisons the SRS using imperceptible adversarial ambient sound when the legitimate user registers into the SRS.
 </div>
-</div>
+</div> -->
 
-
+<!-- 
 - [SafeGen: Mitigating Unsafe Content Generation in Text-to-Image Models](https://arxiv.org/abs/2404.06666). Xinfeng Li, Yuchen Yang, **Jiangyi Deng** (co-first), Chen Yan, Yanjiao Chen, Xiaoyu Ji, Wenyuan Xu. *ACM CCS*, 2024.
 
 - [Alchemy: Data-Free Adversarial Training](). Yijie Bai, Zhongming Ma, Yanjiao Chen, **Jiangyi Deng**, Shengyuan Pang, Yan Liu, Wenyuan Xu. *ACM CCS*, 2024.
@@ -131,21 +120,24 @@ Jialin Wu, **Jiangyi Deng** (co-first), Shengyuan Pang, Yanjiao Chen, Jiayang Xu
 
 - [A Nonlinearity-based Secure Face-to-Face Device Authentication for Mobile Devices](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9200789). Xiaoyu Ji, Xinyan Zhou, Chen Yan, **Jiangyi Deng**, Wenyuan Xu. *IEEE TMC*, 2020.
 
-- [Nauth: Secure face-to-face device authentication via nonlinearity](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8737572). Xinyan Zhou, Xiaoyu Ji, Chen Yan, **Jiangyi Deng**, Wenyuan Xu. *IEEE INFOCOM*, 2019. -->
+- [Nauth: Secure face-to-face device authentication via nonlinearity](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8737572). Xinyan Zhou, Xiaoyu Ji, Chen Yan, **Jiangyi Deng**, Wenyuan Xu. *IEEE INFOCOM*, 2019. --> -->
 
 
 # 🎖 Honors and Awards
-<!-- - *2024.03*: Sun Youxian Scholarship, Zhejiang University
-- *2024.03*: Outstanding Graduate, Zhejiang University
-- *2023.10*: National Scholarship, Zhejiang University
-- *2023.09*: Outstanding Graduate Student Cadre, Zhejiang University
-- *2023.09*: Outstanding Graduate Student, Zhejiang University
-- *2022.09*: Outstanding Graduate Student Cadre, Zhejiang University
-- *2020.09*: Outstanding Graduate Student, Zhejiang University -->
+- *2024.12*: Kai Li Scholarship, College of Electrical Engineering, Zhejiang University
+- *2024.12*: Honor for Graduates-Advanced Group, Zhejiang University
+- *2024.12*: Outstanding Graduate Student Cadre, Zhejiang University
+- *2024.12*: Award of Honor for Graduate, Zhejiang University
+- *2023.12*: Honor for Graduates-Excellent in Labor Education, Zhejiang University
+- *2022.12*: Award of Honor for Graduate, Zhejiang University
+- *2022.12*: Honor for Graduates-Civilized Dormitory, Zhejiang University
+- *2021.12*: Duan Wei Scholarship, College of Electrical Engineering, Zhejiang University
+- *2021.12*: Graduate of Merit/Triple A graduate, Zhejiang University
+- *2021.12*: Award of Honor for Graduate, Zhejiang University
 
-<!-- # 📖 Educations
-- *2019.09 - 2024.06 (present)*, Ph.D.
-- *2015.09 - 2019.09*, Undergraduate-->
+# 📖 Educations
+- *2020.09 - 2025.06 (present)*, Ph.D.
+- *2016.09 - 2020.09*, Undergraduate
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -153,10 +145,10 @@ Jialin Wu, **Jiangyi Deng** (co-first), Shengyuan Pang, Yanjiao Chen, Jiayang Xu
 
 # 📖 Services
 <!-- - Reviewer of *IEEE Transactions on Information Forensics and Security*
-- Reviewer of *ACM Transactions on Privacy and Security*
+- Reviewer of *ACM Transactions on Privacy and Security* -->
 - External Reviewer of "Big Four", *i.e.*, *IEEE S&P*, *USENIX Security*, *ACM CCS*, and *NDSS*
-- Teaching Assistant of *AI and IOT*, at Zhejiang University, *2021.9 - 2022.1*, *2022.9 - 2023.1*
-- Teaching Assistant of *Computer Networking*, at Zhejiang University, *2020.9 - 2021.1*, *2021.2 - 2021.6* -->
+<!-- - Teaching Assistant of *AI and IOT*, at Zhejiang University, *2021.9 - 2022.1*, *2022.9 - 2023.1*
+- Teaching Assistant of *Computer Networking*, at Zhejiang University, *2020.9 - 2021.1*, *2021.2 - 2021.6*  -->
 <!-- 
 # 💻 Internships
 - *2023.05 - 2024.02*, Department of Fundamental Security, [Ant Group](https://www.antgroup.com/), China. -->
