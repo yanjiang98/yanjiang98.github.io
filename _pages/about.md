@@ -62,7 +62,7 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TDSC 2024</div><img src='images/marionetto-img.jpg' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TDSC 2024</div><img src='images/marionetto-img.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Marionette: Manipulate Your Touchscreen via a Charging Cable](https://ieeexplore.ieee.org/abstract/document/10288382)
@@ -71,10 +71,9 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 
 - In this paper, we study the effective detection and protection methods for common-mode (CM) signal injection attacks. In particular, we propose an active suppression device named "GhostBlocker" based on a three -phase common-mode inductor, which enables designers to effectively detect and filter out common-mode interference signals.
 </div>
-</div>
+</div> -->
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TDSC 2024</div><img src='images/capspeaker-img.jpg' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TDSC 2024</div><img src='images/capspeaker-img.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Capspeaker: Injecting Commands to Voice Assistant via Capacitors](https://ieeexplore.ieee.org/abstract/document/10288392)
@@ -83,7 +82,7 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 
 - In this paper, we provide a more comprehensive exploration of "Capspeaker" potential threats and implications. We design a nonlinear model for optimizing the signal crafting process, which significantly improves the recognition success rate of voice assistants. Secondly, we propose a novel software-level defense mechanism that can distinguish malicious and legitimate voice commands. Finally, we expand the attack scenraios applicable to the Capspeaker.
 </div>
-</div>
+</div> -->
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SP 2022</div><img src='images/wight-img.jpg' alt="sym" width="100%"></div></div>
@@ -96,6 +95,12 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 - In this paper, we reveal for the first time that the capacitive touchscreens on mobile devices like smartphone, tablet and GPS can be remotely manipulated via power cables. We presenst a practical attack named "WIGHT", which can inject fake touches, alter users' touch operations and disable the touchscreen. We verified the feasibility of WIGHT on touchscreen panels and commercial devices of brands like Apple, Huawei and Xiaomi.
 </div>
 </div>
+
+- [V-Phanton: Voltage-Based Physically-Triggered Backdoor Attack Against Facial Recognition](). **Yan Jiang**, Ruishan Li, Yushi Cheng, Xiaoyu Ji, Wenyuan Xu. *ICASSP*, 2025.
+
+- [Marionette: Manipulate Your Touchscreen via a Charging Cable](https://ieeexplore.ieee.org/abstract/document/10288382). **Yan Jiang**, Xiaoyu Ji, Kai Wang, Chen Yan, Richard Mitev, Ahmad-Reza Sadeghi, Wenyuan Xu. *TDSC*, 2024.
+
+- [Capspeaker: Injecting Commands to Voice Assistant via Capacitors](https://ieeexplore.ieee.org/abstract/document/10288392). **Yan Jiang**, Xiaoyu Ji, Juchuan Zhang, Yancheng Jiang, Shui Jiang, Wenyuan Xu. *TDSC*, 2024.
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2022</div><img src='images/fencesitter-img.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
