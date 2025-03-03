@@ -50,7 +50,7 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 - *2024.11.27*: &nbsp;🎉🎉 Accepted paper for presentation at the NDSS Symposium 2025!
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NDSS 2025</div><img src='images/powerradio-img.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NDSS 2025</div><img src='images/powerradio-img.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PowerRadio: Manipulate Sensor Measurement via Power GND Radiation](https://arxiv.org/abs/2412.18103)
@@ -62,7 +62,7 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TDSC 2024</div><img src='images/marionetto-img.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TDSC 2024</div><img src='images/marionetto-img.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Marionette: Manipulate Your Touchscreen via a Charging Cable](https://ieeexplore.ieee.org/abstract/document/10288382)
@@ -74,7 +74,7 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TDSC 2024</div><img src='images/capspeaker-img.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TDSC 2024</div><img src='images/capspeaker-img.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Capspeaker: Injecting Commands to Voice Assistant via Capacitors](https://ieeexplore.ieee.org/abstract/document/10288392)
@@ -86,7 +86,7 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">S&P 2022</div><img src='images/wight-img.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">S&P 2022</div><img src='images/wight-img.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [WIGHT: Wired Ghost Touch Attack on Capacitive Touchscreens](https://ieeexplore.ieee.org/document/9833740)
@@ -122,6 +122,11 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 
 - [Nauth: Secure face-to-face device authentication via nonlinearity](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8737572). Xinyan Zhou, Xiaoyu Ji, Chen Yan, **Jiangyi Deng**, Wenyuan Xu. *IEEE INFOCOM*, 2019. --> -->
 
+# 📝 Patents
+- 发明专利：*ZL202011073339.6*-基于机器学习的配电终端 DTU 入侵检测方法和系统. (吕志宁;邓巍;宁柏锋;刘威;罗伟峰;徐文渊;冀晓宇;**蒋燕**;李鹏;习伟)
+- 发明专利：*ZL202310446783.5*-一种基于扫频技术的传感器安全检测方法和系统. (徐文渊;冀晓宇;**蒋燕**;闫琛)
+- 发明专利：*ZL202111394732.X*-一种基于电磁侧信道的设备数字取证装置和取证方法. (徐文渊;冀晓宇;王滨;**蒋燕**;陈加栋;王星)
+- 发明专利：*ZL202210706204.1*-一种触摸屏脆弱性分析和防护方法及系统. (徐文渊;冀晓宇;**蒋燕**;闫琛;王凯)
 
 # 🎖 Honors and Awards
 - *2024.12*: Kai Li Scholarship, College of Electrical Engineering, Zhejiang University
@@ -136,7 +141,7 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 - *2021.12*: Award of Honor for Graduate, Zhejiang University
 
 # 📖 Educations
-- *2020.09 - 2025.06 (present)*, Ph.D.
+- *2020.09 - 2025.03 (present)*, Ph.D.
 - *2016.09 - 2020.09*, Undergraduate
 
 <!-- # 💬 Invited Talks
@@ -144,14 +149,15 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 📖 Services
-<!-- - Reviewer of *IEEE Transactions on Information Forensics and Security*
-- Reviewer of *ACM Transactions on Privacy and Security* -->
+<!-- - Reviewer of *IEEE Transactions on Information Forensics and Security* -->
+<!-- - Reviewer of *ACM Transactions on Privacy and Security* --> 
 - External Reviewer of "Big Four", *i.e.*, *IEEE S&P*, *USENIX Security*, *ACM CCS*, and *NDSS*
-<!-- - Teaching Assistant of *AI and IOT*, at Zhejiang University, *2021.9 - 2022.1*, *2022.9 - 2023.1*
-- Teaching Assistant of *Computer Networking*, at Zhejiang University, *2020.9 - 2021.1*, *2021.2 - 2021.6*  -->
+- Certificate for Ref Cross First Aider (2021.4-2024.4).
+<!-- - Teaching Assistant of *AI and IOT*, at Zhejiang University, *2021.9 - 2022.1*, *2022.9 - 2023.1* -->
+<!-- - Teaching Assistant of *Computer Networking*, at Zhejiang University, *2020.9 - 2021.1*, *2021.2 - 2021.6*  -->
 <!-- 
-# 💻 Internships
-- *2023.05 - 2024.02*, Department of Fundamental Security, [Ant Group](https://www.antgroup.com/), China. -->
+<!-- # 💻 Internships -->
+<!-- - *2023.05 - 2024.02*, Department of Fundamental Security, [Ant Group](https://www.antgroup.com/), China. --> -->
 
 <!-- # 🗺️ Visitor Map
 
