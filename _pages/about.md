@@ -168,6 +168,6 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5kfn1jf6u04&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script> -->
 
 # 🗺️ Hobbies
-- Half-marathon (*21.0975km, 7/50*): Shangyu-Mar2025-**PB 1:57:10**, Hangzhou-Dec2024,Huzhou-Nov2024,Nanjing-Mar2024, ZJU-Nov2023, Qiandaohu-Dec2023,\u2460 Hanzhou-May2023.
+- Half-marathon (*21.0975km, 7/50*): Mar2025Shangyu(**PB 1:57:10**)——Dec2024Hangzhou——Nov2024Huzhou——Mar2024Nanjing——Nov2023ZJU——Dec2023Qiandaohu——May2023Hangzhou.
 - Travel, photography
 - Running, fitness, badminton 
