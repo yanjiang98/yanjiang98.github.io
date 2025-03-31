@@ -44,7 +44,7 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 - *2024.04.04*: &nbsp;🎉🎉 One paper is accepted by ACM CCS 2024!
 - *2024.03.09*: &nbsp;🎉🎉 Accepted paper for presentation at the 45th IEEE Symposium on Security and Privacy! -->
 
-
+- *2025.03.30*: &nbsp;🎉🎉 Accepted paper for presentation at the ICCCS 2025!
 - *2025.02.24*: &nbsp;🎉🎉 Attended the Network and Distributed System Security (NDSS) Syposium 2025 in San Diego, CA, from February 24th to 28th.
 - *2024.12.21*: &nbsp;🎉🎉 Accepted paper for presentation at the ICASSP 2025!
 - *2024.11.27*: &nbsp;🎉🎉 Accepted paper for presentation at the NDSS Symposium 2025!
@@ -95,6 +95,8 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 - In this paper, we reveal for the first time that the capacitive touchscreens on mobile devices like smartphone, tablet and GPS can be remotely manipulated via power cables. We presenst a practical attack named "WIGHT", which can inject fake touches, alter users' touch operations and disable the touchscreen. We verified the feasibility of WIGHT on touchscreen panels and commercial devices of brands like Apple, Huawei and Xiaomi.
 </div>
 </div>
+
+- [Ghost-SV: Voltage-based Physically-Triggered Backdoor Attack against Speaker Verification](). Yancheng Jiang, **Yan Jiang**, Ruochen Zhou, Xiaoyu Ji, Wenyuan Xu. *ICCCS*, 2025.
 
 - [V-Phanton: Voltage-Based Physically-Triggered Backdoor Attack Against Facial Recognition](). **Yan Jiang**, Ruishan Li, Yushi Cheng, Xiaoyu Ji, Wenyuan Xu. *ICASSP*, 2025.
 
@@ -166,6 +168,6 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5kfn1jf6u04&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script> -->
 
 # 🗺️ Hobbies
-- Half-marathon (*21.0975km*): Hangzhou-Dec-2024-**PB 2:00:06**,Huzhou-Nov-2024,Nanjing-Mar-2024,ZJU-Nov-2023,Qiandaohu-Dec-2023,Hanzhou-May-2023, 6/50.
+- Half-marathon (*21.0975km, 7/50*): Shangyu-Mar2025-**PB 1:57:10**, Hangzhou-Dec2024,Huzhou-Nov2024,Nanjing-Mar2024, ZJU-Nov2023, Qiandaohu-Dec2023,\u2460 Hanzhou-May2023.
 - Travel, photography
 - Running, fitness, badminton 
