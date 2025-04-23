@@ -43,7 +43,7 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 - *2024.05.20*: &nbsp;🎉🎉 Attended the 45th IEEE Symposium on Security and Privacy in San Francisco, CA, from May 20th to 23rd.
 - *2024.04.04*: &nbsp;🎉🎉 One paper is accepted by ACM CCS 2024!
 - *2024.03.09*: &nbsp;🎉🎉 Accepted paper for presentation at the 45th IEEE Symposium on Security and Privacy! -->
-
+- *2025.04.19*: &nbsp;🎉🎉 Attended the ICCCS 2025 in Sichuan, China, and received the certificate of Best Presentation!
 - *2025.03.30*: &nbsp;🎉🎉 Accepted paper for presentation at the ICCCS 2025!
 - *2025.02.24*: &nbsp;🎉🎉 Attended the Network and Distributed System Security (NDSS) Syposium 2025 in San Diego, CA, from February 24th to 28th.
 - *2024.12.21*: &nbsp;🎉🎉 Accepted paper for presentation at the ICASSP 2025!
@@ -133,9 +133,10 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 - 发明专利：*ZL202310446783.5*-一种基于扫频技术的传感器安全检测方法和系统. (徐文渊;冀晓宇;**蒋燕**;闫琛)
 
 # 🎖 Honors and Awards
+- *2025.04*: Certificate of Best Presentation, ICCCS 2025. 
 - *2024.12*: Kai Li Scholarship, College of Electrical Engineering, Zhejiang University
 - *2024.12*: Honor for Graduates-Advanced Group, Zhejiang University
-- *2024.12*: Outstanding Graduate Student Cadre, Zhejiang University
+- *2024.12*: Outstanding Graduate Student Cadre, Zhejiang UniversityB
 - *2024.12*: Award of Honor for Graduate, Zhejiang University
 - *2023.12*: Honor for Graduates-Excellent in Labor Education, Zhejiang University
 - *2022.12*: Award of Honor for Graduate, Zhejiang University
