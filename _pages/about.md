@@ -49,7 +49,7 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 - *2024.12.21*: &nbsp;🎉🎉 Accepted paper for presentation at the ICASSP 2025!
 - *2024.11.27*: &nbsp;🎉🎉 Accepted paper for presentation at the NDSS Symposium 2025!
 
-# 📝 Publications 
+# 📝 Publications d
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NDSS 2025</div><img src='images/powerradio-img.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -127,10 +127,10 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 
 - [Nauth: Secure face-to-face device authentication via nonlinearity](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8737572). Xinyan Zhou, Xiaoyu Ji, Chen Yan, **Jiangyi Deng**, Wenyuan Xu. *IEEE INFOCOM*, 2019. -->
 # 📝 Authorized Patents
-- 发明专利：*ZL202011073339.6*-基于机器学习的配电终端 DTU 入侵检测方法和系统. (吕志宁;邓巍;宁柏锋;刘威;罗伟峰;徐文渊;冀晓宇;**蒋燕**;李鹏;习伟)
-- 发明专利：*ZL202111394732.X*-一种基于电磁侧信道的设备数字取证装置和取证方法. (徐文渊;冀晓宇;王滨;**蒋燕**;陈加栋;王星)
+- 发明专利：*ZL202310446783.5*-一种基于电磁侧信道的设备数字取证装置和取证方法. (徐文渊;冀晓宇;王滨;**蒋燕**;陈加栋;王星)
 - 发明专利：*ZL202210706204.1*-一种触摸屏脆弱性分析和防护方法及系统. (徐文渊;冀晓宇;**蒋燕**;闫琛;王凯)
-- 发明专利：*ZL202310446783.5*-一种基于扫频技术的传感器安全检测方法和系统. (徐文渊;冀晓宇;**蒋燕**;闫琛)
+- 发明专利：*ZL202111394732.X*-一种基于扫频技术的传感器安全检测方法和系统. (徐文渊;冀晓宇;**蒋燕**;闫琛)
+- 发明专利：*ZL202011073339.6*-基于机器学习的配电终端 DTU 入侵检测方法和系统. (吕志宁;邓巍;宁柏锋;刘威;罗伟峰;徐文渊;冀晓宇;**蒋燕**;李鹏;习伟)
 
 # 🎖 Honors and Awards
 - *2025.04*: Certificate of Best Presentation, ICCCS 2025. 
