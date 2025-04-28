@@ -104,8 +104,6 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 
 - [Capspeaker: Injecting Commands to Voice Assistant via Capacitors](https://ieeexplore.ieee.org/abstract/document/10288392). **Yan Jiang**, Xiaoyu Ji, Juchuan Zhang, Yancheng Jiang, Shui Jiang, Wenyuan Xu. *TDSC*, 2024.
 
-- this is the test
-
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2022</div><img src='images/fencesitter-img.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
