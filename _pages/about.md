@@ -54,7 +54,7 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NDSS 2025</div><img src='images/powerradio-img.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PowerRadio: Manipulate Sensor Measurement via Power GND Radiation](https://arxiv.org/abs/2412.18103)
+[PowerRadio: Manipulate Sensor Measurement via Power GND Radiation](https://www.ndss-symposium.org/ndss-paper/powerradio-manipulate-sensor-measurement-via-power-gnd-radiation/)
 
 **Yan Jiang**, Xiaoyu Ji, Yancheng Jiang, Kai Wang, Chenren Xu, Wenyuan Xu
 
