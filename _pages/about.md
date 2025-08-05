@@ -43,6 +43,7 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 - *2024.05.20*: &nbsp;🎉🎉 Attended the 45th IEEE Symposium on Security and Privacy in San Francisco, CA, from May 20th to 23rd.
 - *2024.04.04*: &nbsp;🎉🎉 One paper is accepted by ACM CCS 2024!
 - *2024.03.09*: &nbsp;🎉🎉 Accepted paper for presentation at the 45th IEEE Symposium on Security and Privacy! -->
+- *2025.08.04*: &nbsp;🎉🎉 One paper is accepted by the Network and Distributed System Security (NDSS) Syposium 2026!
 - *2025.05.27*: &nbsp;🎉🎉 Successfully defended my Ph.D. thesis!
 - *2025.04.19*: &nbsp;🎉🎉 Attended the ICCCS 2025 in Sichuan, China, and received the certificate of Best Presentation!
 - *2025.03.30*: &nbsp;🎉🎉 Accepted paper for presentation at the ICCCS 2025!
@@ -50,7 +51,7 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 - *2024.12.21*: &nbsp;🎉🎉 Accepted paper for presentation at the ICASSP 2025!
 - *2024.11.27*: &nbsp;🎉🎉 Accepted paper for presentation at the NDSS Symposium 2025!
 
-# 📝 Publications d
+# 📝 Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NDSS 2025</div><img src='images/powerradio-img.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -97,7 +98,7 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 </div>
 </div>
 
-- [Ghost-SV: Voltage-based Physically-Triggered Backdoor Attack against Speaker Verification](). Yancheng Jiang, **Yan Jiang**, Ruochen Zhou, Xiaoyu Ji, Wenyuan Xu. *ICCCS*, 2025.
+- [Ghost-SV: Voltage-based Physically-Triggered Backdoor Attack against Speaker Verification](https://ieeexplore.ieee.org/document/11069733). Yancheng Jiang, **Yan Jiang**, Ruochen Zhou, Xiaoyu Ji, Wenyuan Xu. *ICCCS*, 2025.
 
 - [V-Phanton: Voltage-Based Physically-Triggered Backdoor Attack Against Facial Recognition](https://ieeexplore.ieee.org/abstract/document/10888148). **Yan Jiang**, Ruishan Li, Yushi Cheng, Xiaoyu Ji, Wenyuan Xu. *ICASSP*, 2025.
 
@@ -157,7 +158,7 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 # 📖 Services
 <!-- - Reviewer of *IEEE Transactions on Information Forensics and Security* -->
 <!-- - Reviewer of *ACM Transactions on Privacy and Security* --> 
-- External Reviewer of "Big Four", *i.e.*, *IEEE S\&P*, *USENIX Security*, *ACM CCS*, and *NDSS*
+- External Reviewer of "Big Four", *i.e.*, *IEEE SP*, *USENIX Security*, *ACM CCS*, and *NDSS*
 - Certificate for Red Cross First Aider (2021.4-2024.4).
 <!-- - Teaching Assistant of *AI and IOT*, at Zhejiang University, *2021.9 - 2022.1*, *2022.9 - 2023.1* -->
 <!-- - Teaching Assistant of *Computer Networking*, at Zhejiang University, *2020.9 - 2021.1*, *2021.2 - 2021.6*  -->
