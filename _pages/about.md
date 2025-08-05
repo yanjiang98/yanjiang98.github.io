@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a final-year Ph.D. student at Zhejiang University (ZJU). I obtained my B.E. degree in 2020 from Nanjing University of Posts and Telecommunications.
+I obtained my Ph.D. in 2025 from the College of Electrical Engineering at Zhejiang University and my B.E. degree in 2020 from the College of Automation at Nanjing University of Posts and Telecommunications, and I currently work as a security researcher.
 
 <!-- will soon be joining the Independent Cyber Security Lab (ICSL) at Huawei, having been selected for the "[Top Minds](https://career.huawei.com/reccampportal/portal5/topminds.html)" program. -->
 
 <!-- I obtained my Ph.D. in 2024 and my B.Eng. in 2019 from the College of Electrical Engineering at Zhejiang University, and I currently work as a security researcher. -->
 
-My doctoral research is under the guidance of <a href='https://scholar.google.com/citations?user=FCsdj0YAAAAJ'>Prof. Wenyuan Xu</a> and <a href='https://scholar.google.com/citations?hl=zh-CN&user=9D4UYBoAAAAJ'>Prof. Xiaoyu Ji</a> at ZJU. Recently, my research interests involve around IoT security, with a particular focus on the sensor & algorithm security, malicious power and hardware security. I have contributed to several publications in leading security conferences and journals such as IEEE S&P, NDSS, ICASSP, and TDSC.
+My doctoral research is under the guidance of <a href='https://scholar.google.com/citations?user=FCsdj0YAAAAJ'>Prof. Wenyuan Xu</a> and <a href='https://scholar.google.com/citations?hl=zh-CN&user=9D4UYBoAAAAJ'>Prof. Xiaoyu Ji</a> at ZJU. Recently, my research interests involve around IoT security, with a particular focus on the sensor & algorithm security, malicious power and hardware security. I have contributed to several publications in leading security conferences and journals such as IEEE S&P, NDSS, ICASSP, and TDSC. I am open to academic collaborations and welcome discussions regarding potential research partnerships.
 
 
 <!-- I successfully defended my Ph.D. thesis. My research interests revolve around AI (for) security and privacy, with a particular focus on the security and safety of (multimodal) large language models (LLMs) recently. I have contributed to several publications in leading security conferences such as IEEE S&P, USENIX Security, ACM CCS, and NDSS. I am open to academic collaborations and welcome discussions regarding potential research partnerships. -->
@@ -43,7 +43,7 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 - *2024.05.20*: &nbsp;🎉🎉 Attended the 45th IEEE Symposium on Security and Privacy in San Francisco, CA, from May 20th to 23rd.
 - *2024.04.04*: &nbsp;🎉🎉 One paper is accepted by ACM CCS 2024!
 - *2024.03.09*: &nbsp;🎉🎉 Accepted paper for presentation at the 45th IEEE Symposium on Security and Privacy! -->
-- *2025.08.04*: &nbsp;🎉🎉 One paper is accepted by the Network and Distributed System Security (NDSS) Syposium 2026!
+- *2025.08.04*: &nbsp;🎉🎉 One paper is accepted by the NDSS Syposium 2026!
 - *2025.05.27*: &nbsp;🎉🎉 Successfully defended my Ph.D. thesis!
 - *2025.04.19*: &nbsp;🎉🎉 Attended the ICCCS 2025 in Sichuan, China, and received the certificate of Best Presentation!
 - *2025.03.30*: &nbsp;🎉🎉 Accepted paper for presentation at the ICCCS 2025!
