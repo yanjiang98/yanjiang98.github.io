@@ -137,6 +137,7 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 
 
 # 🎖 Honors and Awards
+- *2025.06*: Outstanding Graduate, Zhejiang University
 - *2025.04*: Certificate of Best Presentation, ICCCS 2025. 
 - *2024.12*: Kai Li Scholarship, College of Electrical Engineering, Zhejiang University
 - *2024.12*: Honor for Graduates-Advanced Group, Zhejiang University
