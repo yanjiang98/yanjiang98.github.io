@@ -105,7 +105,7 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 
 Shilin Xiao, Wenjun Zhu, **Yan Jiang**, Kai Wang, Peiwang Wang, Chen Yan, Xiaoyu Ji, Wenyuan Xu
 
-- In this paper, we propose a systematization framework, termed sensor out-of-band (OOB) vulnerabilities, that for the first time provides a comprehensive abstraction for sensor attack surfaces based on underlying physical principles. We adopt a bottom-up systematization methodology that analyzes OOB vulnerabilities across three levels: component level, sensor level and system level. Our findings offer a foundational understanding of sensor hardware security and provide guidance and future directions for sensor designers, security researchers, and system developers aiming to build more secure sensors and CPS.
+- In this paper, we propose a sensor out-of-band (OOB) vulnerability framework that systematically abstracts sensor attack surfaces from a physical perspective. Using a bottom-up approach, we analyze vulnerabilities at the component, sensor, and system levels, and provide insights for improving sensor and CPS security.
 </div>
 </div>
 
