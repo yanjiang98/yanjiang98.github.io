@@ -87,7 +87,7 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 </div> -->
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">S&P 2022</div><img src='images/wight-img.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SP 2022</div><img src='images/wight-img.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [WIGHT: Wired Ghost Touch Attack on Capacitive Touchscreens](https://ieeexplore.ieee.org/document/9833740)
@@ -95,6 +95,17 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 **Yan Jiang**, Xiaoyu Ji, Kai Wang, Chen Yan, Richard Mitev, Ahmad-Reza Sadeghi, Wenyuan Xu
 
 - In this paper, we reveal for the first time that the capacitive touchscreens on mobile devices like smartphone, tablet and GPS can be remotely manipulated via power cables. We presenst a practical attack named "WIGHT", which can inject fake touches, alter users' touch operations and disable the touchscreen. We verified the feasibility of WIGHT on touchscreen panels and commercial devices of brands like Apple, Huawei and Xiaomi.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NDSS 2026</div><img src='images/sok-img.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SoK: Understanding the Fundamentals and Implications of Sensor Out-of-band Vulnerabilities](https://www.ndss-symposium.org/wp-content/uploads/2026-s450-paper.pdf)
+
+Shilin Xiao, Wenjun Zhu, **Yan Jiang**, Kai Wang, Peiwang Wang, Chen Yan, Xiaoyu Ji, Wenyuan Xu
+
+- In this paper, we propose a systematization framework, termed sensor out-of-band (OOB) vulnerabilities, that for the first time provides a comprehensive abstraction for sensor attack surfaces based on underlying physical principles. We adopt a bottom-up systematization methodology that analyzes OOB vulnerabilities across three levels: component level, sensor level and system level. Our findings offer a foundational understanding of sensor hardware security and provide guidance and future directions for sensor designers, security researchers, and system developers aiming to build more secure sensors and CPS.
 </div>
 </div>
 
@@ -129,6 +140,8 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 
 - [Nauth: Secure face-to-face device authentication via nonlinearity](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8737572). Xinyan Zhou, Xiaoyu Ji, Chen Yan, **Jiangyi Deng**, Wenyuan Xu. *IEEE INFOCOM*, 2019. -->
 # 📝 Authorized Patents
+- 发明专利：*ZL202510402101.X*-针对生物信息识别系统物理后门攻击的防御装置和方法. (**蒋燕**;徐文渊;冀晓宇)
+- 发明专利：*ZL202310264136.2*-一种基于密码芯片功耗分析的异常检测装置和方法. (徐文渊;冀晓宇;**蒋燕**)
 - 发明专利：*ZL202311511389.1*-一种基于三相共模电感的有源共模攻击抑制方法和装置. (**蒋燕**;蒋颜丞;徐文渊;冀晓宇)
 - 发明专利：*ZL202310446783.5*-一种基于电磁侧信道的设备数字取证装置和取证方法. (徐文渊;冀晓宇;王滨;**蒋燕**;陈加栋;王星)
 - 发明专利：*ZL202210706204.1*-一种触摸屏脆弱性分析和防护方法及系统. (徐文渊;冀晓宇;**蒋燕**;闫琛;王凯)
