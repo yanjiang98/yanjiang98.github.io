@@ -109,6 +109,8 @@ Shilin Xiao, Wenjun Zhu, **Yan Jiang**, Kai Wang, Peiwang Wang, Chen Yan, Xiaoyu
 </div>
 </div>
 
+- [False Reality: Uncovering Sensor-induced Human-VR Interaction Vulnerability](https://arxiv.org/abs/2508.08043). Yancheng Jiang, **Yan Jiang**, Ruochen Zhou, Yi-Chao Chen, Xiaoyu Ji, Wenyuan Xu. *arXiv*, 2025.
+
 - [Ghost-SV: Voltage-based Physically-Triggered Backdoor Attack against Speaker Verification](https://ieeexplore.ieee.org/document/11069733). Yancheng Jiang, **Yan Jiang**, Ruochen Zhou, Xiaoyu Ji, Wenyuan Xu. *ICCCS*, 2025.
 
 - [V-Phanton: Voltage-Based Physically-Triggered Backdoor Attack Against Facial Recognition](https://ieeexplore.ieee.org/abstract/document/10888148). **Yan Jiang**, Ruishan Li, Yushi Cheng, Xiaoyu Ji, Wenyuan Xu. *ICASSP*, 2025.
