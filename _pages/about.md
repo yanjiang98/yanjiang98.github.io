@@ -166,7 +166,7 @@ Shilin Xiao, Wenjun Zhu, **Yan Jiang**, Kai Wang, Peiwang Wang, Chen Yan, Xiaoyu
 - *2021.12*: Award of Honor for Graduate, Zhejiang University
 
 # 📖 Educations
-- *2020.09 - 2025.03 (present)*, Ph.D.
+- *2020.09 - 2025.06*, Ph.D.
 - *2016.09 - 2020.09*, Undergraduate
 
 <!-- # 💬 Invited Talks
