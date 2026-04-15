@@ -145,14 +145,20 @@ Shilin Xiao, Wenjun Zhu, **Yan Jiang**, Kai Wang, Peiwang Wang, Chen Yan, Xiaoyu
 
 - [Nauth: Secure face-to-face device authentication via nonlinearity](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8737572). Xinyan Zhou, Xiaoyu Ji, Chen Yan, **Jiangyi Deng**, Wenyuan Xu. *IEEE INFOCOM*, 2019. -->
 # 📝 Authorized Patents
-- 发明专利：*ZL202510402101.X*-针对生物信息识别系统物理后门攻击的防御装置和方法. (**蒋燕**;徐文渊;冀晓宇)
+<!-- - 发明专利：*ZL202510402101.X*-针对生物信息识别系统物理后门攻击的防御装置和方法. (**蒋燕**;徐文渊;冀晓宇)
 - 发明专利：*ZL202310264136.2*-一种基于密码芯片功耗分析的异常检测装置和方法. (徐文渊;冀晓宇;**蒋燕**)
 - 发明专利：*ZL202311511389.1*-一种基于三相共模电感的有源共模攻击抑制方法和装置. (**蒋燕**;蒋颜丞;徐文渊;冀晓宇)
 - 发明专利：*ZL202310446783.5*-一种基于电磁侧信道的设备数字取证装置和取证方法. (徐文渊;冀晓宇;王滨;**蒋燕**;陈加栋;王星)
 - 发明专利：*ZL202210706204.1*-一种触摸屏脆弱性分析和防护方法及系统. (徐文渊;冀晓宇;**蒋燕**;闫琛;王凯)
 - 发明专利：*ZL202111394732.X*-一种基于扫频技术的传感器安全检测方法和系统. (徐文渊;冀晓宇;**蒋燕**;闫琛)
-- 发明专利：*ZL202011073339.6*-基于机器学习的配电终端 DTU 入侵检测方法和系统. (吕志宁;邓巍;宁柏锋;刘威;罗伟峰;徐文渊;冀晓宇;**蒋燕**;李鹏;习伟)
-
+- 发明专利：*ZL202011073339.6*-基于机器学习的配电终端 DTU 入侵检测方法和系统. (吕志宁;邓巍;宁柏锋;刘威;罗伟峰;徐文渊;冀晓宇;**蒋燕**;李鹏;习伟) -->
+- Invention Patent: *ZL202510402101.X* - Defense Device and Method Against Physical Backdoor Attacks in Biometric Recognition Systems. (**Yan Jiang**; Wenyuan Xu; Xiaoyu Ji)
+- Invention Patent: *ZL202310264136.2* - Anomaly Detection Device and Method Based on Power Analysis of Cryptographic Chips. (Wenyuan Xu; Xiaoyu Ji; **Yan Jiang**)
+- Invention Patent: *ZL202311511389.1* - Active Common-Mode Attack Suppression Method and Device Based on Three-Phase Common-Mode Inductors. (**Yan Jiang**; Yancheng Jiang; Wenyuan Xu; Xiaoyu Ji)
+- Invention Patent: *ZL202310446783.5* - Device and Method for Digital Forensics Based on Electromagnetic Side Channels. (Wenyuan Xu; Xiaoyu Ji; Bin Wang; **Yan Jiang**; Jiadong Chen; Xing Wang)
+- Invention Patent: *ZL202210706204.1* - Touchscreen Vulnerability Analysis and Protection Method and System. (Wenyuan Xu; Xiaoyu Ji; **Yan Jiang**; Chen Yan; Kai Wang)
+- Invention Patent: *ZL202111394732.X* - Sensor Security Detection Method and System Based on Frequency Sweeping Technology. (Wenyuan Xu; Xiaoyu Ji; **Yan Jiang**; Chen Yan)
+- Invention Patent: *ZL202011073339.6* - Machine Learning-Based Intrusion Detection Method and System for Distribution Terminal DTU. (Zhining Lv; Wei Deng; Baifeng Ning; Wei Liu; Weifeng Luo; Wenyuan Xu; Xiaoyu Ji; **Yan Jiang**; Peng Li; Wei Xi)
 
 # 🎖 Honors and Awards
 - *2025.06*: Outstanding Graduate, Zhejiang University
@@ -180,6 +186,7 @@ Shilin Xiao, Wenjun Zhu, **Yan Jiang**, Kai Wang, Peiwang Wang, Chen Yan, Xiaoyu
 <!-- - Reviewer of *IEEE Transactions on Information Forensics and Security* -->
 <!-- - Reviewer of *ACM Transactions on Privacy and Security* --> 
 - External Reviewer of "Big Four", *i.e.*, *IEEE SP*, *USENIX Security*, *ACM CCS*, and *NDSS*
+- Reviewer of IEEE International Conference on Acoustics, Speech, and Signal (*ICASSP*).
 - Certificate for Red Cross First Aider (2021.4-2024.4).
 <!-- - Teaching Assistant of *AI and IOT*, at Zhejiang University, *2021.9 - 2022.1*, *2022.9 - 2023.1* -->
 <!-- - Teaching Assistant of *Computer Networking*, at Zhejiang University, *2020.9 - 2021.1*, *2021.2 - 2021.6*  -->
@@ -192,6 +199,7 @@ Shilin Xiao, Wenjun Zhu, **Yan Jiang**, Kai Wang, Peiwang Wang, Chen Yan, Xiaoyu
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5kfn1jf6u04&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script> -->
 
 # 🗺️ Hobbies
-- Half-marathon (*21.0975km, 7/50*): Mar2025Shangyu(**PB 1:57:10**)—Dec2024Hangzhou—Nov2024Huzhou—Mar2024Nanjing—Nov2023ZJU—Dec2023Qiandaohu—May2023Hangzhou.
+- Half-marathon (*21.0975km, 7/50*)
+<!-- Mar2025Shangyu(**PB 1:57:10**)—Dec2024Hangzhou—Nov2024Huzhou—Mar2024Nanjing—Nov2023ZJU—Dec2023Qiandaohu—May2023Hangzhou. -->
 - Travel, photography
 - Running, fitness, badminton 
