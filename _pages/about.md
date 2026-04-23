@@ -43,6 +43,7 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 - *2024.05.20*: &nbsp;🎉🎉 Attended the 45th IEEE Symposium on Security and Privacy in San Francisco, CA, from May 20th to 23rd.
 - *2024.04.04*: &nbsp;🎉🎉 One paper is accepted by ACM CCS 2024!
 - *2024.03.09*: &nbsp;🎉🎉 Accepted paper for presentation at the 45th IEEE Symposium on Security and Privacy! -->
+- *2026.04.23*: &nbsp;🎉🎉 Attended the BlackHat Asia 2026 in Singapore!
 - *2026.03.03*: &nbsp;🎉🎉 One paper is accepted by the CVPR 2026!
 - *2025.08.15*: &nbsp;🎉🎉 One paper is accepted by the NDSS Syposium 2026!
 - *2025.05.27*: &nbsp;🎉🎉 Successfully defended my Ph.D. thesis!
