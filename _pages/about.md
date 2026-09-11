@@ -17,43 +17,29 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I obtained my Ph.D. in 2025 from the College of Electrical Engineering at Zhejiang University and my B.E. degree in 2020 from the College of Automation at Nanjing University of Posts and Telecommunications, and I currently work as a security researcher.
+<span class="lang-en">I obtained my Ph.D. in 2025 from the College of Electrical Engineering at Zhejiang University and my B.E. degree in 2020 from the College of Automation at Nanjing University of Posts and Telecommunications, and I currently work as a security researcher.</span><span class="lang-zh" style="display:none">我于2025年在浙江大学电气工程学院获得博士学位，于2020年在南京邮电大学自动化学院获得学士学位，目前从事安全研究工作。</span>
 
-<!-- will soon be joining the Independent Cyber Security Lab (ICSL) at Huawei, having been selected for the "[Top Minds](https://career.huawei.com/reccampportal/portal5/topminds.html)" program. -->
+<span class="lang-en">My doctoral research is under the guidance of <a href='https://scholar.google.com/citations?user=FCsdj0YAAAAJ'>Prof. Wenyuan Xu</a> and <a href='https://scholar.google.com/citations?hl=zh-CN&user=9D4UYBoAAAAJ'>Prof. Xiaoyu Ji</a> at ZJU. Recently, my research interests involve around IoT security, with a particular focus on the sensor and algorithm security, as well as malicious power analysis and hardware-level threats. I have contributed to several publications in leading security conferences and journals such as IEEE SP, NDSS, CVPR, ICASSP, and TDSC. I am open to academic collaborations and welcome discussions regarding potential research partnerships.</span><span class="lang-zh" style="display:none">我的博士研究在浙江大学<a href='https://scholar.google.com/citations?user=FCsdj0YAAAAJ'>徐文渊教授</a>和<a href='https://scholar.google.com/citations?hl=zh-CN&user=9D4UYBoAAAAJ'>冀晓宇教授</a>的指导下完成。近期，我的研究兴趣集中于物联网安全，特别关注传感器与算法安全，以及恶意功耗分析和硬件级威胁。我在IEEE SP、NDSS、CVPR、ICASSP和TDSC等顶级安全会议和期刊上发表了多篇论文。欢迎学术合作，期待与潜在合作伙伴交流探讨。</span>
 
-<!-- I obtained my Ph.D. in 2024 and my B.Eng. in 2019 from the College of Electrical Engineering at Zhejiang University, and I currently work as a security researcher. -->
-
-My doctoral research is under the guidance of <a href='https://scholar.google.com/citations?user=FCsdj0YAAAAJ'>Prof. Wenyuan Xu</a> and <a href='https://scholar.google.com/citations?hl=zh-CN&user=9D4UYBoAAAAJ'>Prof. Xiaoyu Ji</a> at ZJU. Recently, my research interests involve around IoT security, with a particular focus on the sensor and algorithm security, as well as malicious power analysis and hardware-level threats. I have contributed to several publications in leading security conferences and journals such as IEEE SP, NDSS, CVPR, ICASSP, and TDSC. I am open to academic collaborations and welcome discussions regarding potential research partnerships.
-
-
-<!-- I successfully defended my Ph.D. thesis. My research interests revolve around AI (for) security and privacy, with a particular focus on the security and safety of (multimodal) large language models (LLMs) recently. I have contributed to several publications in leading security conferences such as IEEE S&P, USENIX Security, ACM CCS, and NDSS. I am open to academic collaborations and welcome discussions regarding potential research partnerships. -->
-
-<!-- I received my B.E. degree in the College of Electrical Engineering at Zhejiang University in 2019. -->
-
-The template for this page is credited to [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io).
+<span class="lang-en">The template for this page is credited to [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io).</span><span class="lang-zh" style="display:none">本页面模板来自 [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io)。</span>
 
 <!-- <a href='https://scholar.google.com/citations?user=AE7d_1QAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
+<h1 id="-news">🔥 <span class="lang-en">News</span><span class="lang-zh" style="display:none">新闻动态</span></h1>
 
-# 🔥 News
-<!-- - *2024.08.31*: &nbsp;🎉🎉 Accepted paper for presentation at the NDSS Symposium 2025!
-- *2024.08.24*: &nbsp;🎉🎉 Accepted paper for presentation at the ACM Conference on Computer and Communications Security 2024!
-- *2024.05.31*: &nbsp;🎉🎉 Successfully defended my Ph.D. thesis!
-- *2024.05.24*: &nbsp;🎉🎉 One paper is accepted by ACM CCS 2024!
-- *2024.05.20*: &nbsp;🎉🎉 Attended the 45th IEEE Symposium on Security and Privacy in San Francisco, CA, from May 20th to 23rd.
-- *2024.04.04*: &nbsp;🎉🎉 One paper is accepted by ACM CCS 2024!
-- *2024.03.09*: &nbsp;🎉🎉 Accepted paper for presentation at the 45th IEEE Symposium on Security and Privacy! -->
-- *2026.04.23*: &nbsp;🎉🎉 Attended the BlackHat Asia 2026 in Singapore!
-- *2026.03.03*: &nbsp;🎉🎉 One paper is accepted by the CVPR 2026!
-- *2025.08.15*: &nbsp;🎉🎉 One paper is accepted by the NDSS Syposium 2026!
-- *2025.05.27*: &nbsp;🎉🎉 Successfully defended my Ph.D. thesis!
-- *2025.04.19*: &nbsp;🎉🎉 Attended the ICCCS 2025 in Sichuan, China, and received the certificate of Best Presentation!
-- *2025.03.30*: &nbsp;🎉🎉 Accepted paper for presentation at the ICCCS 2025!
-- *2025.02.24*: &nbsp;🎉🎉 Attended the Network and Distributed System Security (NDSS) Syposium 2025 in San Diego, CA, from February 24th to 28th.
-- *2024.12.21*: &nbsp;🎉🎉 Accepted paper for presentation at the ICASSP 2025!
-- *2024.11.27*: &nbsp;🎉🎉 Accepted paper for presentation at the NDSS Symposium 2025!
+- *2026.09.11*: &nbsp;🎉🎉 <span class="lang-en">Participated the 11th "Maker China" Intelligent Bionic Robotics SME Innovation and Entrepreneurship Competition in Chongqing, China, and won Third Prize!</span><span class="lang-zh" style="display:none">参加第十一届"创客中国"智能仿生机器人中小企业创新创业大赛（重庆），荣获三等奖！</span>
+- *2026.04.23*: &nbsp;🎉🎉 <span class="lang-en">Attended the BlackHat Asia 2026 in Singapore!</span><span class="lang-zh" style="display:none">参加2026年BlackHat Asia（新加坡）！</span>
+- *2026.03.03*: &nbsp;🎉🎉 <span class="lang-en">One paper is accepted by the CVPR 2026!</span><span class="lang-zh" style="display:none">一篇论文被CVPR 2026接收！</span>
+- *2025.08.15*: &nbsp;🎉🎉 <span class="lang-en">One paper is accepted by the NDSS Syposium 2026!</span><span class="lang-zh" style="display:none">一篇论文被NDSS Symposium 2026接收！</span>
+- *2025.05.27*: &nbsp;🎉🎉 <span class="lang-en">Successfully defended my Ph.D. thesis!</span><span class="lang-zh" style="display:none">顺利通过博士论文答辩！</span>
+- *2025.04.19*: &nbsp;🎉🎉 <span class="lang-en">Attended the ICCCS 2025 in Sichuan, China, and received the certificate of Best Presentation!</span><span class="lang-zh" style="display:none">参加ICCCS 2025（四川），荣获最佳报告证书！</span>
+- *2025.03.30*: &nbsp;🎉🎉 <span class="lang-en">Accepted paper for presentation at the ICCCS 2025!</span><span class="lang-zh" style="display:none">论文被ICCCS 2025接收！</span>
+- *2025.02.24*: &nbsp;🎉🎉 <span class="lang-en">Attended the Network and Distributed System Security (NDSS) Syposium 2025 in San Diego, CA, from February 24th to 28th.</span><span class="lang-zh" style="display:none">参加NDSS 2025研讨会（加州圣地亚哥），时间2月24日至28日。</span>
+- *2024.12.21*: &nbsp;🎉🎉 <span class="lang-en">Accepted paper for presentation at the ICASSP 2025!</span><span class="lang-zh" style="display:none">一篇论文被ICASSP 2025接收！</span>
+- *2024.11.27*: &nbsp;🎉🎉 <span class="lang-en">Accepted paper for presentation at the NDSS Symposium 2025!</span><span class="lang-zh" style="display:none">一篇论文被NDSS Symposium 2025接收！</span>
 
-# 📝 Publications
+<h1 id="-publications">📝 <span class="lang-en">Publications</span><span class="lang-zh" style="display:none">发表论文</span></h1>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NDSS 2025</div><img src='images/powerradio-img.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -61,33 +47,9 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 
 **Yan Jiang**, Xiaoyu Ji, Yancheng Jiang, Kai Wang, Chenren Xu, Wenyuan Xu
 
-<!-- [**Code**](https://github.com/lin000001/Legilimens) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- In this paper, we open up a new threat vector to sensor measurements. Specifically, we explore the energy conversion of wired signals, and design a power cable-based sensor manipulation attack, named "PowerRadio". PowerRadio can tamper with sensors' readings across sockets and household wiring system.
+- <span class="lang-en">In this paper, we open up a new threat vector to sensor measurements. Specifically, we explore the energy conversion of wired signals, and design a power cable-based sensor manipulation attack, named "PowerRadio". PowerRadio can tamper with sensors' readings across sockets and household wiring system.</span><span class="lang-zh" style="display:none">本文开辟了针对传感器测量的新型威胁向量。我们探索了有线信号的能量转换机制，设计了一种基于电源线的传感器操控攻击——"PowerRadio"，可通过插座和家庭电力线系统篡改传感器读数。</span>
 </div>
 </div>
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TDSC 2024</div><img src='images/marionetto-img.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Marionette: Manipulate Your Touchscreen via a Charging Cable](https://ieeexplore.ieee.org/abstract/document/10288382)
-
-**Yan Jiang**, Xiaoyu Ji, Kai Wang, Chen Yan, Richard Mitev, Ahmad-Reza Sadeghi, Wenyuan Xu
-
-- In this paper, we study the effective detection and protection methods for common-mode (CM) signal injection attacks. In particular, we propose an active suppression device named "GhostBlocker" based on a three -phase common-mode inductor, which enables designers to effectively detect and filter out common-mode interference signals.
-</div>
-</div> -->
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TDSC 2024</div><img src='images/capspeaker-img.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Capspeaker: Injecting Commands to Voice Assistant via Capacitors](https://ieeexplore.ieee.org/abstract/document/10288392)
-
-**Yan Jiang**, Xiaoyu Ji, Juchuan Zhang, Yancheng Jiang, Shui Jiang, Wenyuan Xu
-
-- In this paper, we provide a more comprehensive exploration of "Capspeaker" potential threats and implications. We design a nonlinear model for optimizing the signal crafting process, which significantly improves the recognition success rate of voice assistants. Secondly, we propose a novel software-level defense mechanism that can distinguish malicious and legitimate voice commands. Finally, we expand the attack scenraios applicable to the Capspeaker.
-</div>
-</div> -->
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SP 2022</div><img src='images/wight-img.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -96,7 +58,7 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 
 **Yan Jiang**, Xiaoyu Ji, Kai Wang, Chen Yan, Richard Mitev, Ahmad-Reza Sadeghi, Wenyuan Xu
 
-- In this paper, we reveal for the first time that the capacitive touchscreens on mobile devices like smartphone, tablet and GPS can be remotely manipulated via power cables. We presenst a practical attack named "WIGHT", which can inject fake touches, alter users' touch operations and disable the touchscreen. We verified the feasibility of WIGHT on touchscreen panels and commercial devices of brands like Apple, Huawei and Xiaomi.
+- <span class="lang-en">In this paper, we reveal for the first time that the capacitive touchscreens on mobile devices like smartphone, tablet and GPS can be remotely manipulated via power cables. We presenst a practical attack named "WIGHT", which can inject fake touches, alter users' touch operations and disable the touchscreen. We verified the feasibility of WIGHT on touchscreen panels and commercial devices of brands like Apple, Huawei and Xiaomi.</span><span class="lang-zh" style="display:none">本文首次揭示移动设备（智能手机、平板电脑、GPS等）的电容式触摸屏可通过电源线远程操控。我们提出了实用攻击"WIGHT"，可注入虚假触摸、篡改触摸操作并禁用触摸屏，并在苹果、华为、小米等品牌商用设备上验证了可行性。</span>
 </div>
 </div>
 
@@ -107,7 +69,7 @@ The template for this page is credited to [AcadHomepage](https://github.com/Raye
 
 Shilin Xiao, Wenjun Zhu, **Yan Jiang**, Kai Wang, Peiwang Wang, Chen Yan, Xiaoyu Ji, Wenyuan Xu
 
-- In this paper, we propose a sensor out-of-band (OOB) vulnerability framework that systematically abstracts sensor attack surfaces from a physical perspective. Using a bottom-up approach, we analyze vulnerabilities at the component, sensor, and system levels, and provide insights for improving sensor and CPS security.
+- <span class="lang-en">In this paper, we propose a sensor out-of-band (OOB) vulnerability framework that systematically abstracts sensor attack surfaces from a physical perspective. Using a bottom-up approach, we analyze vulnerabilities at the component, sensor, and system levels, and provide insights for improving sensor and CPS security.</span><span class="lang-zh" style="display:none">本文提出传感器带外（OOB）漏洞框架，从物理角度系统性地抽象传感器攻击面。采用自下而上的方法，从组件、传感器和系统三个层面分析漏洞，为改善传感器和信息物理系统安全提供见解。</span>
 </div>
 </div>
 
@@ -123,84 +85,76 @@ Shilin Xiao, Wenjun Zhu, **Yan Jiang**, Kai Wang, Peiwang Wang, Chen Yan, Xiaoyu
 
 - [Capspeaker: Injecting Commands to Voice Assistant via Capacitors](https://ieeexplore.ieee.org/abstract/document/10288392). **Yan Jiang**, Xiaoyu Ji, Juchuan Zhang, Yancheng Jiang, Shui Jiang, Wenyuan Xu. *TDSC*, 2024.
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2022</div><img src='images/fencesitter-img.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<h1 id="-authorized-patents">📝 <span class="lang-en">Authorized Patents</span><span class="lang-zh" style="display:none">授权专利</span></h1>
 
-[FenceSitter: Black-box, Content-Agnostic, and Synchronization-Free Enrollment-Phase Attacks on Speaker Recognition Systems](https://dl.acm.org/doi/10.1145/3548606.3559357)
+- <span class="lang-en">Invention Patent: *ZL202510402101.X* - Defense Device and Method Against Physical Backdoor Attacks in Biometric Recognition Systems. (**Yan Jiang**; Wenyuan Xu; Xiaoyu Ji)</span><span class="lang-zh" style="display:none">发明专利：*ZL202510402101.X*——针对生物信息识别系统物理后门攻击的防御装置和方法。(**蒋燕**；徐文渊；冀晓宇)</span>
+- <span class="lang-en">Invention Patent: *ZL202310264136.2* - Anomaly Detection Device and Method Based on Power Analysis of Cryptographic Chips. (Wenyuan Xu; Xiaoyu Ji; **Yan Jiang**)</span><span class="lang-zh" style="display:none">发明专利：*ZL202310264136.2*——一种基于密码芯片功耗分析的异常检测装置和方法。(徐文渊；冀晓宇；**蒋燕**)</span>
+- <span class="lang-en">Invention Patent: *ZL202311511389.1* - Active Common-Mode Attack Suppression Method and Device Based on Three-Phase Common-Mode Inductors. (**Yan Jiang**; Yancheng Jiang; Wenyuan Xu; Xiaoyu Ji)</span><span class="lang-zh" style="display:none">发明专利：*ZL202311511389.1*——一种基于三相共模电感的有源共模攻击抑制方法和装置。(**蒋燕**；蒋颜丞；徐文渊；冀晓宇)</span>
+- <span class="lang-en">Invention Patent: *ZL202310446783.5* - Device and Method for Digital Forensics Based on Electromagnetic Side Channels. (Wenyuan Xu; Xiaoyu Ji; Bin Wang; **Yan Jiang**; Jiadong Chen; Xing Wang)</span><span class="lang-zh" style="display:none">发明专利：*ZL202310446783.5*——一种基于电磁侧信道的设备数字取证装置和取证方法。(徐文渊；冀晓宇；王滨；**蒋燕**；陈加栋；王星)</span>
+- <span class="lang-en">Invention Patent: *ZL202210706204.1* - Touchscreen Vulnerability Analysis and Protection Method and System. (Wenyuan Xu; Xiaoyu Ji; **Yan Jiang**; Chen Yan; Kai Wang)</span><span class="lang-zh" style="display:none">发明专利：*ZL202210706204.1*——一种触摸屏脆弱性分析和防护方法及系统。(徐文渊；冀晓宇；**蒋燕**；闫琛；王凯)</span>
+- <span class="lang-en">Invention Patent: *ZL202111394732.X* - Sensor Security Detection Method and System Based on Frequency Sweeping Technology. (Wenyuan Xu; Xiaoyu Ji; **Yan Jiang**; Chen Yan)</span><span class="lang-zh" style="display:none">发明专利：*ZL202111394732.X*——一种基于扫频技术的传感器安全检测方法和系统。(徐文渊；冀晓宇；**蒋燕**；闫琛)</span>
+- <span class="lang-en">Invention Patent: *ZL202011073339.6* - Machine Learning-Based Intrusion Detection Method and System for Distribution Terminal DTU. (Zhining Lv; Wei Deng; Baifeng Ning; Wei Liu; Weifeng Luo; Wenyuan Xu; Xiaoyu Ji; **Yan Jiang**; Peng Li; Wei Xi)</span><span class="lang-zh" style="display:none">发明专利：*ZL202011073339.6*——基于机器学习的配电终端DTU入侵检测方法和系统。(吕志宁；邓巍；宁柏锋；刘威；罗伟峰；徐文渊；冀晓宇；**蒋燕**；李鹏；习伟)</span>
 
-**Jiangyi Deng**, Yanjiao Chen, Wenyuan Xu
+<h1 id="-honors-and-awards">🎖 <span class="lang-en">Honors and Awards</span><span class="lang-zh" style="display:none">荣誉奖励</span></h1>
 
-[**Presentation**](https://dl.acm.org/doi/10.1145/3548606.3559357) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- In this paper, we explore a new attack surface of SRSs by presenting an enrollment-phase attack paradigm, named FenceSitter, where the adversary poisons the SRS using imperceptible adversarial ambient sound when the legitimate user registers into the SRS.
-</div>
-</div> -->
+- *2025.06*: <span class="lang-en">Outstanding Graduate, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学优秀毕业生</span>
+- *2025.04*: <span class="lang-en">Certificate of Best Presentation, ICCCS 2025.</span><span class="lang-zh" style="display:none">ICCCS 2025最佳报告证书</span>
+- *2024.12*: <span class="lang-en">Kai Li Scholarship, College of Electrical Engineering, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学电气工程学院凯黎奖学金</span>
+- *2024.12*: <span class="lang-en">Honor for Graduates-Advanced Group, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学研究生荣誉称号——先进集体</span>
+- *2024.12*: <span class="lang-en">Outstanding Graduate Student Cadre, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学优秀研究生干部</span>
+- *2024.12*: <span class="lang-en">Award of Honor for Graduate, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学研究生荣誉称号</span>
+- *2023.12*: <span class="lang-en">Honor for Graduates-Excellent in Labor Education, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学研究生荣誉——劳动教育优秀</span>
+- *2022.12*: <span class="lang-en">Award of Honor for Graduate, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学研究生荣誉称号</span>
+- *2022.12*: <span class="lang-en">Honor for Graduates-Civilized Dormitory, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学研究生荣誉——文明寝室</span>
+- *2021.12*: <span class="lang-en">Duan Wei Scholarship, College of Electrical Engineering, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学电气工程学院段威奖学金</span>
+- *2021.12*: <span class="lang-en">Graduate of Merit/Triple A graduate, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学三好研究生</span>
+- *2021.12*: <span class="lang-en">Award of Honor for Graduate, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学研究生荣誉称号</span>
 
-<!-- 
-- [SafeGen: Mitigating Unsafe Content Generation in Text-to-Image Models](https://arxiv.org/abs/2404.06666). Xinfeng Li, Yuchen Yang, **Jiangyi Deng** (co-first), Chen Yan, Yanjiao Chen, Xiaoyu Ji, Wenyuan Xu. *ACM CCS*, 2024.
+<h1 id="-educations">📖 <span class="lang-en">Educations</span><span class="lang-zh" style="display:none">教育背景</span></h1>
 
-- [Alchemy: Data-Free Adversarial Training](). Yijie Bai, Zhongming Ma, Yanjiao Chen, **Jiangyi Deng**, Shengyuan Pang, Yan Liu, Wenyuan Xu. *ACM CCS*, 2024.
+- *2020.09 - 2025.06*, <span class="lang-en">Ph.D., College of Electrical Engineering, Zhejiang University</span><span class="lang-zh" style="display:none">博士，浙江大学电气工程学院</span>
+- *2016.09 - 2020.09*, <span class="lang-en">Undergraduate, College of Automation, Nanjing University of Posts and Telecommunications</span><span class="lang-zh" style="display:none">本科，南京邮电大学自动化学院</span>
 
-- [Dr. Defender: Proactive Detection of Autopilot Drones based on CSI](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10239182). **Jiangyi Deng**, Xiaoyu Ji, Beibei Wang, Bin Wang, Wenyuan Xu. *IEEE TIFS*, 2023.
+<h1 id="-services">📖 <span class="lang-en">Services</span><span class="lang-zh" style="display:none">学术服务</span></h1>
 
-- [A Nonlinearity-based Secure Face-to-Face Device Authentication for Mobile Devices](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9200789). Xiaoyu Ji, Xinyan Zhou, Chen Yan, **Jiangyi Deng**, Wenyuan Xu. *IEEE TMC*, 2020.
+- <span class="lang-en">External Reviewer of "Big Four", *i.e.*, *IEEE SP*, *USENIX Security*, *ACM CCS*, and *NDSS*</span><span class="lang-zh" style="display:none">"四大顶会"（*IEEE SP*、*USENIX Security*、*ACM CCS*、*NDSS*）外部审稿人</span>
+- <span class="lang-en">Reviewer of IEEE International Conference on Acoustics, Speech, and Signal (*ICASSP*).</span><span class="lang-zh" style="display:none">IEEE国际声学、语音与信号处理会议（*ICASSP*）审稿人</span>
+- <span class="lang-en">Certificate for Red Cross First Aider (2021.4-2024.4).</span><span class="lang-zh" style="display:none">红十字急救员证书（2021.4-2024.4）</span>
 
-- [Nauth: Secure face-to-face device authentication via nonlinearity](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8737572). Xinyan Zhou, Xiaoyu Ji, Chen Yan, **Jiangyi Deng**, Wenyuan Xu. *IEEE INFOCOM*, 2019. -->
-# 📝 Authorized Patents
-<!-- - 发明专利：*ZL202510402101.X*-针对生物信息识别系统物理后门攻击的防御装置和方法. (**蒋燕**;徐文渊;冀晓宇)
-- 发明专利：*ZL202310264136.2*-一种基于密码芯片功耗分析的异常检测装置和方法. (徐文渊;冀晓宇;**蒋燕**)
-- 发明专利：*ZL202311511389.1*-一种基于三相共模电感的有源共模攻击抑制方法和装置. (**蒋燕**;蒋颜丞;徐文渊;冀晓宇)
-- 发明专利：*ZL202310446783.5*-一种基于电磁侧信道的设备数字取证装置和取证方法. (徐文渊;冀晓宇;王滨;**蒋燕**;陈加栋;王星)
-- 发明专利：*ZL202210706204.1*-一种触摸屏脆弱性分析和防护方法及系统. (徐文渊;冀晓宇;**蒋燕**;闫琛;王凯)
-- 发明专利：*ZL202111394732.X*-一种基于扫频技术的传感器安全检测方法和系统. (徐文渊;冀晓宇;**蒋燕**;闫琛)
-- 发明专利：*ZL202011073339.6*-基于机器学习的配电终端 DTU 入侵检测方法和系统. (吕志宁;邓巍;宁柏锋;刘威;罗伟峰;徐文渊;冀晓宇;**蒋燕**;李鹏;习伟) -->
-- Invention Patent: *ZL202510402101.X* - Defense Device and Method Against Physical Backdoor Attacks in Biometric Recognition Systems. (**Yan Jiang**; Wenyuan Xu; Xiaoyu Ji)
-- Invention Patent: *ZL202310264136.2* - Anomaly Detection Device and Method Based on Power Analysis of Cryptographic Chips. (Wenyuan Xu; Xiaoyu Ji; **Yan Jiang**)
-- Invention Patent: *ZL202311511389.1* - Active Common-Mode Attack Suppression Method and Device Based on Three-Phase Common-Mode Inductors. (**Yan Jiang**; Yancheng Jiang; Wenyuan Xu; Xiaoyu Ji)
-- Invention Patent: *ZL202310446783.5* - Device and Method for Digital Forensics Based on Electromagnetic Side Channels. (Wenyuan Xu; Xiaoyu Ji; Bin Wang; **Yan Jiang**; Jiadong Chen; Xing Wang)
-- Invention Patent: *ZL202210706204.1* - Touchscreen Vulnerability Analysis and Protection Method and System. (Wenyuan Xu; Xiaoyu Ji; **Yan Jiang**; Chen Yan; Kai Wang)
-- Invention Patent: *ZL202111394732.X* - Sensor Security Detection Method and System Based on Frequency Sweeping Technology. (Wenyuan Xu; Xiaoyu Ji; **Yan Jiang**; Chen Yan)
-- Invention Patent: *ZL202011073339.6* - Machine Learning-Based Intrusion Detection Method and System for Distribution Terminal DTU. (Zhining Lv; Wei Deng; Baifeng Ning; Wei Liu; Weifeng Luo; Wenyuan Xu; Xiaoyu Ji; **Yan Jiang**; Peng Li; Wei Xi)
+<h1 id="-internships">💻 <span class="lang-en">Internships</span><span class="lang-zh" style="display:none">工作经历</span></h1>
 
-# 🎖 Honors and Awards
-- *2025.06*: Outstanding Graduate, Zhejiang University
-- *2025.04*: Certificate of Best Presentation, ICCCS 2025. 
-- *2024.12*: Kai Li Scholarship, College of Electrical Engineering, Zhejiang University
-- *2024.12*: Honor for Graduates-Advanced Group, Zhejiang University
-- *2024.12*: Outstanding Graduate Student Cadre, Zhejiang UniversityB
-- *2024.12*: Award of Honor for Graduate, Zhejiang University
-- *2023.12*: Honor for Graduates-Excellent in Labor Education, Zhejiang University
-- *2022.12*: Award of Honor for Graduate, Zhejiang University
-- *2022.12*: Honor for Graduates-Civilized Dormitory, Zhejiang University
-- *2021.12*: Duan Wei Scholarship, College of Electrical Engineering, Zhejiang University
-- *2021.12*: Graduate of Merit/Triple A graduate, Zhejiang University
-- *2021.12*: Award of Honor for Graduate, Zhejiang University
+- *2025.08 - 2026.09*, <span class="lang-en">Senior Hardware Security Engineer A, [Huawei](https://www.huawei.com/), China.</span><span class="lang-zh" style="display:none">硬件安全高级工程师A，[华为](https://www.huawei.com/)，中国。</span>
 
-# 📖 Educations
-- *2020.09 - 2025.06*, Ph.D.
-- *2016.09 - 2020.09*, Undergraduate
+<h1 id="-hobbies">🗺️ <span class="lang-en">Hobbies</span><span class="lang-zh" style="display:none">兴趣爱好</span></h1>
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+- <span class="lang-en">Half-marathon (*21.0975km, 7/50*)</span><span class="lang-zh" style="display:none">半程马拉松（*21.0975公里，7/50*）</span>
+- <span class="lang-en">Travel, photography</span><span class="lang-zh" style="display:none">旅行、摄影</span>
+- <span class="lang-en">Running, fitness, badminton</span><span class="lang-zh" style="display:none">跑步、健身、羽毛球</span>
 
-# 📖 Services
-<!-- - Reviewer of *IEEE Transactions on Information Forensics and Security* -->
-<!-- - Reviewer of *ACM Transactions on Privacy and Security* --> 
-- External Reviewer of "Big Four", *i.e.*, *IEEE SP*, *USENIX Security*, *ACM CCS*, and *NDSS*
-- Reviewer of IEEE International Conference on Acoustics, Speech, and Signal (*ICASSP*).
-- Certificate for Red Cross First Aider (2021.4-2024.4).
-<!-- - Teaching Assistant of *AI and IOT*, at Zhejiang University, *2021.9 - 2022.1*, *2022.9 - 2023.1* -->
-<!-- - Teaching Assistant of *Computer Networking*, at Zhejiang University, *2020.9 - 2021.1*, *2021.2 - 2021.6*  -->
-<!-- 
-<!-- # 💻 Internships -->
-<!-- - *2023.05 - 2024.02*, Department of Fundamental Security, [Ant Group](https://www.antgroup.com/), China. -->
+<script>
+function toggleLang() {
+  var lang = document.documentElement.getAttribute('data-lang') === 'zh' ? 'en' : 'zh';
+  setLang(lang);
+  try { localStorage.setItem('preferredLang', lang); } catch(e) {}
+}
 
-<!-- # 🗺️ Visitor Map
+function setLang(lang) {
+  document.documentElement.setAttribute('data-lang', lang);
+  var enEls = document.querySelectorAll('.lang-en');
+  var zhEls = document.querySelectorAll('.lang-zh');
+  for (var i = 0; i < enEls.length; i++) {
+    enEls[i].style.display = lang === 'en' ? '' : 'none';
+  }
+  for (var i = 0; i < zhEls.length; i++) {
+    zhEls[i].style.display = lang === 'zh' ? '' : 'none';
+  }
+  var btn = document.getElementById('lang-toggle');
+  if (btn) btn.textContent = lang === 'zh' ? 'EN' : '中文';
+}
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5kfn1jf6u04&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script> -->
-
-# 🗺️ Hobbies
-- Half-marathon (*21.0975km, 7/50*)
-<!-- Mar2025Shangyu(**PB 1:57:10**)—Dec2024Hangzhou—Nov2024Huzhou—Mar2024Nanjing—Nov2023ZJU—Dec2023Qiandaohu—May2023Hangzhou. -->
-- Travel, photography
-- Running, fitness, badminton 
+document.addEventListener('DOMContentLoaded', function() {
+  var saved = 'en';
+  try { saved = localStorage.getItem('preferredLang') || 'en'; } catch(e) {}
+  setLang(saved);
+});
+</script>
