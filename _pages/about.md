@@ -27,6 +27,7 @@ redirect_from:
 
 <h1 id="-news">🔥 <span class="lang-en">News</span><span class="lang-zh" style="display:none">新闻动态</span></h1>
 
+- *2026.09.18*: &nbsp;🎉🎉 <span class="lang-en">Attended the China Cyber Security Conference (CCSC) 2026 in Hefei, China!</span><span class="lang-zh" style="display:none">参加2026年中国网络空间安全大会！</span>
 - *2026.09.11*: &nbsp;🎉🎉 <span class="lang-en">Participated the 11th "Maker China" Intelligent Bionic Robotics SME Innovation and Entrepreneurship Competition in Chongqing, China, and won Third Prize!</span><span class="lang-zh" style="display:none">参加第十一届"创客中国"智能仿生机器人中小企业创新创业大赛（重庆），荣获三等奖！</span>
 - *2026.04.23*: &nbsp;🎉🎉 <span class="lang-en">Attended the BlackHat Asia 2026 in Singapore!</span><span class="lang-zh" style="display:none">参加2026年BlackHat Asia（新加坡）！</span>
 - *2026.03.03*: &nbsp;🎉🎉 <span class="lang-en">One paper is accepted by the CVPR 2026!</span><span class="lang-zh" style="display:none">一篇论文被CVPR 2026接收！</span>
