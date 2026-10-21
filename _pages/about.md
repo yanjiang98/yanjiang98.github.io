@@ -173,7 +173,7 @@ Shilin Xiao, Wenjun Zhu, **Yan Jiang**, Kai Wang, Peiwang Wang, Chen Yan, Xiaoyu
 <div style="display:flex; gap:2em; flex-wrap:wrap; margin:1em 0;">
   <div style="text-align:center; width:140px;">
     <!-- TODO: Replace with actual photo /images/students/student-liutianyang.jpg -->
-    <img src="/images/students/student-liutianyang.jpg" alt="Liu Tianyang" style="width:120px; height:160px; object-fit:cover; border-radius:6px;"
+    <img src="/images/students/student-liutianyang.png" alt="Liu Tianyang" style="width:120px; height:160px; object-fit:cover; border-radius:6px;"
       onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
     <div style="display:none; width:120px; height:160px; background:#f0f0f0; border-radius:6px; align-items:center; justify-content:center; color:#aaa; font-size:24px; margin:0 auto;">👤</div>
     <p style="margin:0.5em 0 0; font-weight:bold;">刘天扬</p>
@@ -315,3 +315,4 @@ document.addEventListener('DOMContentLoaded', function() {
   setLang(saved);
 });
 </script>
+

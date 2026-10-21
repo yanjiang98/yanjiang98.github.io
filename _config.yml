@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yan Jiang"
-description              : "Security researcher focusing on IoT and hardware security."
+description              : ""
 repository               : "yanjiang98/yanjiang98.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yan Jiang"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Associate Professor at the School of Cyberspace Security, Guangzhou University. Research interests: Intelligent IoT security, Embodied AI security, Hardware security."
+  avatar           : "images/personal/avatar.png"
+  bio              : "Associate Professor at the School of Cyberspace Security, Guangzhou University.<br><br>Research interests: Intelligent IoT security, Embodied AI security, Hardware security."
   location         : "Guangdong, China"
   employer         :
   pubmed           : 
