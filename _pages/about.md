@@ -39,8 +39,6 @@ My research focuses on IoT, hardware, and embodied AI security, particularly sen
 <strong>招生信息：</strong> 欢迎热爱科研、对网络安全、物联网安全、硬件安全及具身智能安全感兴趣的同学加入课题组！同时欢迎学术界与工业界同行交流合作。
 </span>
 
-<span class="lang-en">The template for this page is credited to [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io).</span><span class="lang-zh" style="display:none">本页面模板来自 [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io)。</span>
-
 # 🔥 <span class="lang-en">News</span><span class="lang-zh" style="display:none">新闻动态</span>
 
 - *2026.10*: &nbsp;🎉🎉 <span class="lang-en">[Guangzhou University's Cyberspace Security discipline ranked **1st in China** by Shanghai Ranking 2026!](https://www.shanghairanking.cn/rankings/bcsr/2026/0839)</span><span class="lang-zh" style="display:none">[广州大学网络空间安全学科荣登**2026软科中国最好学科排名全国第一**！](https://www.shanghairanking.cn/rankings/bcsr/2026/0839)</span>
@@ -55,6 +53,10 @@ My research focuses on IoT, hardware, and embodied AI security, particularly sen
 - *2025.02.24*: &nbsp;🎉🎉 <span class="lang-en">Attended the Network and Distributed System Security (NDSS) Syposium 2025 in San Diego, CA, from February 24th to 28th.</span><span class="lang-zh" style="display:none">参加NDSS 2025研讨会（加州圣地亚哥），时间2月24日至28日。</span>
 - *2024.12.21*: &nbsp;🎉🎉 <span class="lang-en">Accepted paper for presentation at the ICASSP 2025!</span><span class="lang-zh" style="display:none">一篇论文被ICASSP 2025接收！</span>
 - *2024.11.27*: &nbsp;🎉🎉 <span class="lang-en">Accepted paper for presentation at the NDSS Symposium 2025!</span><span class="lang-zh" style="display:none">一篇论文被NDSS Symposium 2025接收！</span>
+
+<p style="margin-top:2em; font-size:0.8em; color:#aaa; text-align:center;">
+<span class="lang-en">This page is built upon the <a href="https://github.com/RayeRen/acad-homepage.github.io" style="color:#aaa;">AcadHomepage</a> template, with customizations.</span><span class="lang-zh" style="display:none">本页面基于 <a href="https://github.com/RayeRen/acad-homepage.github.io" style="color:#aaa;">AcadHomepage</a> 模板改良构建。</span>
+</p>
 
 </div>
 
