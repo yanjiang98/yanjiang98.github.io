@@ -36,14 +36,8 @@ During my Ph.D. studies at Zhejiang University, I was advised by <a href="https:
 <strong>招生信息：</strong> 欢迎热爱科研、具有好奇心和探索精神的同学加入课题组！尤其欢迎对网络安全、物联网安全、具身智能系统安全、硬件安全等方向感兴趣的同学与我联系，共同探索前沿科研问题。同时，欢迎学术界与工业界同行交流合作。
 </span>
 
-<!-- 
-<span class="lang-en">I obtained my Ph.D. in 2025 from the College of Electrical Engineering at Zhejiang University and my B.E. degree in 2020 from the College of Automation at Nanjing University of Posts and Telecommunications, and I currently work as a security researcher.</span><span class="lang-zh" style="display:none">我于2025年在浙江大学电气工程学院获得博士学位，于2020年在南京邮电大学自动化学院获得学士学位，目前从事安全研究工作。</span>
-
-<span class="lang-en">My doctoral research is under the guidance of <a href='https://scholar.google.com/citations?user=FCsdj0YAAAAJ'>Prof. Wenyuan Xu</a> and <a href='https://scholar.google.com/citations?hl=zh-CN&user=9D4UYBoAAAAJ'>Prof. Xiaoyu Ji</a> at ZJU. Recently, my research interests involve around IoT security, with a particular focus on the sensor and algorithm security, as well as malicious power analysis and hardware-level threats. I have contributed to several publications in leading security conferences and journals such as IEEE SP, NDSS, CVPR, ICASSP, and TDSC. I am open to academic collaborations and welcome discussions regarding potential research partnerships.</span><span class="lang-zh" style="display:none">我的博士研究在浙江大学<a href='https://scholar.google.com/citations?user=FCsdj0YAAAAJ'>徐文渊教授</a>和<a href='https://scholar.google.com/citations?hl=zh-CN&user=9D4UYBoAAAAJ'>冀晓宇教授</a>的指导下完成。近期，我的研究兴趣集中于物联网安全，特别关注传感器与算法安全，以及恶意功耗分析和硬件级威胁。我在IEEE SP、NDSS、CVPR、ICASSP和TDSC等顶级安全会议和期刊上发表了多篇论文。欢迎学术合作，期待与潜在合作伙伴交流探讨。</span> -->
 
 <span class="lang-en">The template for this page is credited to [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io).</span><span class="lang-zh" style="display:none">本页面模板来自 [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io)。</span>
-
-<!-- <a href='https://scholar.google.com/citations?user=AE7d_1QAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
 <h1 id="-news">🔥 <span class="lang-en">News</span><span class="lang-zh" style="display:none">新闻动态</span></h1>
 

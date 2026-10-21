@@ -7,7 +7,7 @@ author_profile: true
 
 <h1 id="-life">🌿 <span class="lang-en">Life</span><span class="lang-zh" style="display:none">生活</span></h1>
 
-<h2><span class="lang-en">👨‍🍳 My Husband</span><span class="lang-zh" style="display:none">👨‍🍳 厨神老公</span></h2>
+<h2><span class="lang-en">👨‍🍳 My Personal Chef</span><span class="lang-zh" style="display:none">👨‍🍳 我家厨神（御用厨师）</span></h2>
 
 <!-- TODO: Replace placeholder below with actual photo path, e.g. /images/husband.jpg -->
 <div style="text-align:center; margin: 1em 0;">
