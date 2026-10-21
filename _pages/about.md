@@ -210,6 +210,9 @@ Shilin Xiao, Wenjun Zhu, **Yan Jiang**, Kai Wang, Peiwang Wang, Chen Yan, Xiaoyu
 
 <!-- TODO: Add teaching experience here -->
 
+- <span class="lang-en">Artificial Intelligence and Machine Learning — Teaching Observation & Trial Lecture (2026)</span><span class="lang-zh" style="display:none">人工智能与机器学习 — 课程旁听与试讲（2026）</span>
+
+
 </div>
 
 <!-- ========== LIFE ========== -->

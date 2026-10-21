@@ -92,6 +92,10 @@ em.nd {
     min-width: 6.2em;
 }
 
+#section-awards em.nd {
+    min-width: 4.5em;
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 
