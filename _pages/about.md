@@ -20,22 +20,23 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+
 <span class="lang-en">
-I am currently an Associate Professor at the <a href="https://wyy.gzhu.edu.cn/">School of Cyberspace Security</a>, <a href="https://wyy.gzhu.edu.cn/szdw/yjssz/znaqyjs.htm">Institute of Intelligent Security</a>, Guangzhou University, which I joined in September 2026. Prior to that, I worked as a Senior Hardware Security Engineer at Huawei Technologies Co., Ltd. from 2025 to 2026. I received my Ph.D. degree from the College of Electrical Engineering at Zhejiang University in 2025 and my B.E. degree from the College of Automation at Nanjing University of Posts and Telecommunications in 2020.
+I am an Associate Professor (Hundred Talents Program) at the <a href="https://wyy.gzhu.edu.cn/">School of Cyberspace Security</a>, Institute of Intelligent Security, Guangzhou University, since September 2026. Previously, I was a Senior Hardware Security Engineer at Huawei Technologies (2025–2026). I received my Ph.D. from Zhejiang University in 2025, advised by <a href="https://scholar.google.com/citations?user=FCsdj0YAAAAJ">Prof. Wenyuan Xu</a> and <a href="https://scholar.google.com/citations?hl=zh-CN&user=9D4UYBoAAAAJ">Prof. Xiaoyu Ji</a>, and my B.E. from Nanjing University of Posts and Telecommunications in 2020.
 </span><span class="lang-zh" style="display:none">
-我于2026年9月加入广州大学，现任<a href="https://wyy.gzhu.edu.cn/">网络空间安全学院</a><a href="https://wyy.gzhu.edu.cn/szdw/yjssz/znaqyjs.htm">智能安全研究所</a>百人计划副教授。此前，2025年至2026年在华为技术有限公司担任高级硬件安全工程师。我于2025年在浙江大学电气工程学院获得博士学位，于2020年在南京邮电大学自动化学院获得学士学位。
+我于2026年9月加入广州大学，现任<a href="https://wyy.gzhu.edu.cn/">网络空间安全学院</a><a href="https://wyy.gzhu.edu.cn/szdw/yjssz/znaqyjs.htm">智能安全研究所</a>百人计划副教授。此前于2025–2026年在华为技术有限公司担任高级硬件安全工程师。2025年于浙江大学获得博士学位，师从<a href="https://scholar.google.com/citations?user=FCsdj0YAAAAJ">徐文渊教授</a>和<a href="https://scholar.google.com/citations?hl=zh-CN&user=9D4UYBoAAAAJ">冀晓宇教授</a>；2020年于南京邮电大学获得学士学位。
 </span>
 
 <span class="lang-en">
-During my Ph.D. studies at Zhejiang University, I was advised by <a href="https://scholar.google.com/citations?user=FCsdj0YAAAAJ">Prof. Wenyuan Xu</a> and <a href="https://scholar.google.com/citations?hl=zh-CN&user=9D4UYBoAAAAJ">Prof. Xiaoyu Ji</a>. My research interests focus on IoT security and hardware security, particularly sensor and algorithm security, power side-channel analysis, and hardware-level threats. My research has been published in leading conferences and journals, including IEEE S&amp;P, NDSS, CVPR, ICASSP, and IEEE TDSC.
+My research focuses on IoT, hardware, and embodied AI security, particularly sensor and algorithm security, power side-channel analysis, and physical-layer attacks. My work has appeared in leading conferences and journals, including IEEE S&amp;P, NDSS, CVPR, ICASSP, and IEEE TDSC, and has attracted media coverage from Forbes, Sina, and other outlets.
 </span><span class="lang-zh" style="display:none">
-博士期间，我师从浙江大学<a href="https://scholar.google.com/citations?user=FCsdj0YAAAAJ">徐文渊教授</a>和<a href="https://scholar.google.com/citations?hl=zh-CN&user=9D4UYBoAAAAJ">冀晓宇教授</a>。我的研究兴趣主要集中于物联网安全与硬件安全，特别关注传感器与算法安全、功耗侧信道分析以及硬件级安全威胁。相关研究成果发表于IEEE S&amp;P、NDSS、CVPR、ICASSP和IEEE TDSC等国际知名学术会议和期刊。
+我的研究方向主要包括物联网安全、硬件安全与具身智能安全，重点关注传感器与算法安全、功耗侧信道分析及物理层攻击。相关成果发表于IEEE S&amp;P、NDSS、CVPR、ICASSP和IEEE TDSC等国际顶级会议和期刊，并受到福布斯（Forbes）、新浪（Sina）等媒体关注与报道。
 </span>
 
 <span class="lang-en">
-<strong>Prospective Students:</strong> I am actively looking for motivated students who are passionate about scientific research, particularly in cybersecurity, IoT security, embodied AI and hardware security. Students with strong curiosity, research enthusiasm, and a willingness to explore challenging problems are highly encouraged to contact me. I also welcome academic collaborations with researchers from academia and industry.
+<strong>Prospective Students:</strong> I welcome motivated students interested in cybersecurity, IoT security, hardware security, and embodied AI security to join our research group. Academic and industrial collaborations are also welcome.
 </span><span class="lang-zh" style="display:none">
-<strong>招生信息：</strong> 欢迎热爱科研、具有好奇心和探索精神的同学加入课题组！尤其欢迎对网络安全、物联网安全、具身智能系统安全、硬件安全等方向感兴趣的同学与我联系，共同探索前沿科研问题。同时，欢迎学术界与工业界同行交流合作。
+<strong>招生信息：</strong> 欢迎热爱科研、对网络安全、物联网安全、硬件安全及具身智能安全感兴趣的同学加入课题组！同时欢迎学术界与工业界同行交流合作。
 </span>
 
 <span class="lang-en">The template for this page is credited to [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io).</span><span class="lang-zh" style="display:none">本页面模板来自 [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io)。</span>
@@ -141,25 +142,65 @@ Shilin Xiao, Wenjun Zhu, **Yan Jiang**, Kai Wang, Peiwang Wang, Chen Yan, Xiaoyu
 <!-- ========== AWARDS ========== -->
 <div class="tab-section" id="section-awards" style="display:none" markdown="1">
 
-# 🎖 <span class="lang-en">Honors and Awards</span><span class="lang-zh" style="display:none">荣誉奖励</span>
+# 🏅 <span class="lang-en">Honors</span><span class="lang-zh" style="display:none">荣誉称号</span>
 
 - *2025.06*: <span class="lang-en">Outstanding Graduate, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学优秀毕业生</span>
-- *2025.04*: <span class="lang-en">Certificate of Best Presentation, ICCCS 2025.</span><span class="lang-zh" style="display:none">ICCCS 2025最佳报告证书</span>
-- *2024.12*: <span class="lang-en">Kai Li Scholarship, College of Electrical Engineering, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学电气工程学院凯黎奖学金</span>
-- *2024.12*: <span class="lang-en">Honor for Graduates-Advanced Group, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学研究生荣誉称号——先进集体</span>
+- *2024.12*: <span class="lang-en">Honor for Graduates — Advanced Group, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学研究生荣誉称号——先进集体</span>
 - *2024.12*: <span class="lang-en">Outstanding Graduate Student Cadre, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学优秀研究生干部</span>
 - *2024.12*: <span class="lang-en">Award of Honor for Graduate, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学研究生荣誉称号</span>
-- *2023.12*: <span class="lang-en">Honor for Graduates-Excellent in Labor Education, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学研究生荣誉——劳动教育优秀</span>
+- *2023.12*: <span class="lang-en">Honor for Graduates — Excellent in Labor Education, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学研究生荣誉——劳动教育优秀</span>
 - *2022.12*: <span class="lang-en">Award of Honor for Graduate, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学研究生荣誉称号</span>
-- *2022.12*: <span class="lang-en">Honor for Graduates-Civilized Dormitory, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学研究生荣誉——文明寝室</span>
-- *2021.12*: <span class="lang-en">Duan Wei Scholarship, College of Electrical Engineering, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学电气工程学院段威奖学金</span>
-- *2021.12*: <span class="lang-en">Graduate of Merit/Triple A graduate, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学三好研究生</span>
+- *2022.12*: <span class="lang-en">Honor for Graduates — Civilized Dormitory, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学研究生荣誉——文明寝室</span>
+- *2021.12*: <span class="lang-en">Graduate of Merit / Triple A Graduate, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学三好研究生</span>
 - *2021.12*: <span class="lang-en">Award of Honor for Graduate, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学研究生荣誉称号</span>
+
+# 🎖 <span class="lang-en">Awards</span><span class="lang-zh" style="display:none">获奖</span>
+
+- *2026.09*: <span class="lang-en">Third Prize, 11th "Maker China" Intelligent Bionic Robotics SME Innovation and Entrepreneurship Competition</span><span class="lang-zh" style="display:none">第十一届"创客中国"智能仿生机器人中小企业创新创业大赛三等奖</span>
+- *2025.04*: <span class="lang-en">Certificate of Best Presentation, ICCCS 2025</span><span class="lang-zh" style="display:none">ICCCS 2025最佳报告证书</span>
+- *2024.12*: <span class="lang-en">Kai Li Scholarship, College of Electrical Engineering, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学电气工程学院凯黎奖学金</span>
+- *2021.12*: <span class="lang-en">Duan Wei Scholarship, College of Electrical Engineering, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学电气工程学院段威奖学金</span>
 
 </div>
 
-<!-- ========== TEACHING ========== -->
+<!-- ========== STUDENTS & TEACHING ========== -->
 <div class="tab-section" id="section-teaching" style="display:none" markdown="1">
+
+# 👩‍🎓 <span class="lang-en">Students</span><span class="lang-zh" style="display:none">学生</span>
+
+## <span class="lang-en">Ph.D. Students</span><span class="lang-zh" style="display:none">博士生</span>
+
+<div style="display:flex; gap:2em; flex-wrap:wrap; margin:1em 0;">
+  <div style="text-align:center; width:140px;">
+    <!-- TODO: Replace with actual photo /images/students/student-liutianyang.jpg -->
+    <img src="/images/students/student-liutianyang.jpg" alt="Liu Tianyang" style="width:120px; height:160px; object-fit:cover; border-radius:6px;"
+      onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+    <div style="display:none; width:120px; height:160px; background:#f0f0f0; border-radius:6px; align-items:center; justify-content:center; color:#aaa; font-size:24px; margin:0 auto;">👤</div>
+    <p style="margin:0.5em 0 0; font-weight:bold;">刘天扬</p>
+    <p style="margin:0; font-size:0.85em; color:#666;">Liu Tianyang · 2026</p>
+  </div>
+</div>
+
+## <span class="lang-en">Master Students</span><span class="lang-zh" style="display:none">硕士生</span>
+
+<div style="display:flex; gap:2em; flex-wrap:wrap; margin:1em 0;">
+  <div style="text-align:center; width:140px;">
+    <!-- TODO: Replace with actual photo /images/students/student-pengqiankun.jpg -->
+    <img src="/images/students/student-pengqiankun.jpg" alt="Peng Qiankun" style="width:120px; height:160px; object-fit:cover; border-radius:6px;"
+      onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+    <div style="display:none; width:120px; height:160px; background:#f0f0f0; border-radius:6px; align-items:center; justify-content:center; color:#aaa; font-size:24px; margin:0 auto;">👤</div>
+    <p style="margin:0.5em 0 0; font-weight:bold;">彭乾坤</p>
+    <p style="margin:0; font-size:0.85em; color:#666;">Peng Qiankun · 2026</p>
+  </div>
+  <div style="text-align:center; width:140px;">
+    <!-- TODO: Replace with actual photo /images/students/student-youjinbin.jpg -->
+    <img src="/images/students/student-youjinbin.jpg" alt="You Jinbin" style="width:120px; height:160px; object-fit:cover; border-radius:6px;"
+      onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+    <div style="display:none; width:120px; height:160px; background:#f0f0f0; border-radius:6px; align-items:center; justify-content:center; color:#aaa; font-size:24px; margin:0 auto;">👤</div>
+    <p style="margin:0.5em 0 0; font-weight:bold;">尤锦滨</p>
+    <p style="margin:0; font-size:0.85em; color:#666;">You Jinbin · 2026</p>
+  </div>
+</div>
 
 # 🎓 <span class="lang-en">Teaching</span><span class="lang-zh" style="display:none">教学</span>
 
@@ -172,26 +213,28 @@ Shilin Xiao, Wenjun Zhu, **Yan Jiang**, Kai Wang, Peiwang Wang, Chen Yan, Xiaoyu
 
 # 🌿 <span class="lang-en">Life</span><span class="lang-zh" style="display:none">生活</span>
 
-## <span class="lang-en">👨‍🍳 My Personal Chef</span><span class="lang-zh" style="display:none">👨‍🍳 我家厨神（御用厨师）</span>
+<div style="display:flex; gap:2em; align-items:flex-start; flex-wrap:wrap;">
 
-<!-- TODO: Replace with actual photo path /images/life-husband.jpg -->
-<div style="text-align:center; margin: 1em 0;">
-  <img src="/images/life-husband.jpg" alt="My husband" style="max-width:400px; width:100%; border-radius:8px;"
-    onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
-  <div style="display:none; padding:60px 0; background:#f5f5f5; border-radius:8px; color:#999;">
-    📷 <span class="lang-en">Photo coming soon</span><span class="lang-zh">照片待上传</span>
+  <div style="flex:1; min-width:200px; text-align:center;">
+    <h3><span class="lang-en">👨‍🍳 My Personal Chef</span><span class="lang-zh" style="display:none">👨‍🍳 我家厨神（御用厨师）</span></h3>
+    <!-- TODO: Replace with actual photo path /images/life-husband.jpg -->
+    <img src="/images/life-husband.jpg" alt="My husband" style="width:100%; max-width:280px; border-radius:8px;"
+      onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+    <div style="display:none; padding:40px 0; background:#f5f5f5; border-radius:8px; color:#999;">
+      📷 <span class="lang-en">Photo coming soon</span><span class="lang-zh">照片待上传</span>
+    </div>
   </div>
-</div>
 
-## <span class="lang-en">🐱 Taizi, My Cat</span><span class="lang-zh" style="display:none">🐱 猫咪"太子"</span>
-
-<!-- TODO: Replace with actual photo path /images/life-taizi.jpg -->
-<div style="text-align:center; margin: 1em 0;">
-  <img src="/images/life-taizi.jpg" alt="Taizi the cat" style="max-width:400px; width:100%; border-radius:8px;"
-    onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
-  <div style="display:none; padding:60px 0; background:#f5f5f5; border-radius:8px; color:#999;">
-    📷 <span class="lang-en">Photo coming soon</span><span class="lang-zh">照片待上传</span>
+  <div style="flex:1; min-width:200px; text-align:center;">
+    <h3><span class="lang-en">🐱 Taizi, My Cat</span><span class="lang-zh" style="display:none">🐱 猫咪"太子"</span></h3>
+    <!-- TODO: Replace with actual photo path /images/life-taizi.jpg -->
+    <img src="/images/life-taizi.jpg" alt="Taizi the cat" style="width:100%; max-width:280px; border-radius:8px;"
+      onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+    <div style="display:none; padding:40px 0; background:#f5f5f5; border-radius:8px; color:#999;">
+      📷 <span class="lang-en">Photo coming soon</span><span class="lang-zh">照片待上传</span>
+    </div>
   </div>
+
 </div>
 
 ## <span class="lang-en">🏃 Hobbies</span><span class="lang-zh" style="display:none">🏃 兴趣爱好</span>
