@@ -23,7 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yan Jiang"
   avatar           : "images/personal/avatar.png"
-  bio              : "Associate Professor at the School of Cyberspace Security, Guangzhou University.<br><br>Research interests: Intelligent IoT security, Embodied AI security, Hardware security."
+  bio              : "Associate Professor at the School of Cyberspace Security, <span class=\"lang-en\"><a href=\"https://english.gzhu.edu.cn/\">Guangzhou University</a></span><span class=\"lang-zh\" style=\"display:none\"><a href=\"https://www.gzhu.edu.cn/\">广州大学</a></span>."
+  bio2             : "Research interests: Intelligent IoT security, Embodied AI security, Hardware security."
   location         : "Guangdong, China"
   employer         :
   pubmed           : 

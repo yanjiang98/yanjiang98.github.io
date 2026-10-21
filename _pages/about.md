@@ -43,6 +43,7 @@ My research focuses on IoT, hardware, and embodied AI security, particularly sen
 
 # 🔥 <span class="lang-en">News</span><span class="lang-zh" style="display:none">新闻动态</span>
 
+- *2026.10*: &nbsp;🎉🎉 <span class="lang-en">[Guangzhou University's Cyberspace Security discipline ranked **1st in China** by Shanghai Ranking 2026!](https://www.shanghairanking.cn/rankings/bcsr/2026/0839)</span><span class="lang-zh" style="display:none">[广州大学网络空间安全学科荣登**2026软科中国最好学科排名全国第一**！](https://www.shanghairanking.cn/rankings/bcsr/2026/0839)</span>
 - *2026.09.18*: &nbsp;🎉🎉 <span class="lang-en">Attended the China Cyber Security Conference (CCSC) 2026 in Hefei, China!</span><span class="lang-zh" style="display:none">参加2026年中国网络空间安全大会！</span>
 - *2026.09.11*: &nbsp;🎉🎉 <span class="lang-en">Participated the 11th "Maker China" Intelligent Bionic Robotics SME Innovation and Entrepreneurship Competition in Chongqing, China, and won Third Prize!</span><span class="lang-zh" style="display:none">参加第十一届"创客中国"智能仿生机器人中小企业创新创业大赛（重庆），荣获三等奖！</span>
 - *2026.04.23*: &nbsp;🎉🎉 <span class="lang-en">Attended the BlackHat Asia 2026 in Singapore!</span><span class="lang-zh" style="display:none">参加2026年BlackHat Asia（新加坡）！</span>
@@ -62,7 +63,7 @@ My research focuses on IoT, hardware, and embodied AI security, particularly sen
 
 # 📝 <span class="lang-en">Publications</span><span class="lang-zh" style="display:none">发表论文</span>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NDSS 2025</div><img src='images/powerradio-img.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NDSS 2025</div><img src='images/papers_img/powerradio-img.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PowerRadio: Manipulate Sensor Measurement via Power GND Radiation](https://www.ndss-symposium.org/ndss-paper/powerradio-manipulate-sensor-measurement-via-power-gnd-radiation/)
@@ -73,7 +74,7 @@ My research focuses on IoT, hardware, and embodied AI security, particularly sen
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SP 2022</div><img src='images/wight-img.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SP 2022</div><img src='images/papers_img/wight-img.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [WIGHT: Wired Ghost Touch Attack on Capacitive Touchscreens](https://ieeexplore.ieee.org/document/9833740)
@@ -84,7 +85,7 @@ My research focuses on IoT, hardware, and embodied AI security, particularly sen
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NDSS 2026</div><img src='images/sok-img.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NDSS 2026</div><img src='images/papers_img/sok-img.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SoK: Understanding the Fundamentals and Implications of Sensor Out-of-band Vulnerabilities](https://www.ndss-symposium.org/wp-content/uploads/2026-s450-paper.pdf)
@@ -218,7 +219,7 @@ Shilin Xiao, Wenjun Zhu, **Yan Jiang**, Kai Wang, Peiwang Wang, Chen Yan, Xiaoyu
   <div style="flex:1; min-width:200px; text-align:center;">
     <h3><span class="lang-en">👨‍🍳 My Personal Chef</span><span class="lang-zh" style="display:none">👨‍🍳 我家厨神（御用厨师）</span></h3>
     <!-- TODO: Replace with actual photo path /images/life-husband.jpg -->
-    <img src="/images/life-husband.jpg" alt="My husband" style="width:100%; max-width:280px; border-radius:8px;"
+    <img src="/images/life_img/life-husband.jpg" alt="My husband" style="width:100%; max-width:280px; border-radius:8px;"
       onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
     <div style="display:none; padding:40px 0; background:#f5f5f5; border-radius:8px; color:#999;">
       📷 <span class="lang-en">Photo coming soon</span><span class="lang-zh">照片待上传</span>
@@ -228,7 +229,7 @@ Shilin Xiao, Wenjun Zhu, **Yan Jiang**, Kai Wang, Peiwang Wang, Chen Yan, Xiaoyu
   <div style="flex:1; min-width:200px; text-align:center;">
     <h3><span class="lang-en">🐱 Taizi, My Cat</span><span class="lang-zh" style="display:none">🐱 猫咪"太子"</span></h3>
     <!-- TODO: Replace with actual photo path /images/life-taizi.jpg -->
-    <img src="/images/life-taizi.jpg" alt="Taizi the cat" style="width:100%; max-width:280px; border-radius:8px;"
+    <img src="/images/life_img/life-taizi.jpg" alt="Taizi the cat" style="width:100%; max-width:280px; border-radius:8px;"
       onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
     <div style="display:none; padding:40px 0; background:#f5f5f5; border-radius:8px; color:#999;">
       📷 <span class="lang-en">Photo coming soon</span><span class="lang-zh">照片待上传</span>
@@ -242,6 +243,8 @@ Shilin Xiao, Wenjun Zhu, **Yan Jiang**, Kai Wang, Peiwang Wang, Chen Yan, Xiaoyu
 - <span class="lang-en">Half-marathon (*21.0975km, 7/50*)</span><span class="lang-zh" style="display:none">半程马拉松（*21.0975公里，7/50*）</span>
 - <span class="lang-en">Travel, photography</span><span class="lang-zh" style="display:none">旅行、摄影</span>
 - <span class="lang-en">Running, fitness, badminton</span><span class="lang-zh" style="display:none">跑步、健身、羽毛球</span>
+
+---
 
 </div>
 
