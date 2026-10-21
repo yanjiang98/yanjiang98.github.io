@@ -23,9 +23,9 @@ redirect_from:
 # 👤 <span class="lang-en">About Me</span><span class="lang-zh" style="display:none">个人简介</span>
 
 <span class="lang-en">
-I am an Associate Professor (Hundred Talents Program) at the <a href="https://wyy.gzhu.edu.cn/">School of Cyberspace Security</a>, Institute of Intelligent Security, Guangzhou University, since September 2026. Previously, I was a Senior Hardware Security Engineer at Huawei Technologies (2025–2026). I received my Ph.D. from Zhejiang University in 2025, advised by <a href="https://scholar.google.com/citations?user=FCsdj0YAAAAJ">Prof. Wenyuan Xu</a> and <a href="https://scholar.google.com/citations?hl=zh-CN&user=9D4UYBoAAAAJ">Prof. Xiaoyu Ji</a>, and my B.E. from Nanjing University of Posts and Telecommunications in 2020.
+I am an Associate Professor (Hundred Talents Program) at the <a href="https://wyy.gzhu.edu.cn/">School of Cyberspace Security</a>, Institute of Intelligent Security, Guangzhou University, working in the research group of <a href="https://wyy.gzhu.edu.cn/info/1158/1573.html">Prof. Lihua Yin</a>, since September 2026. Previously, I was a Senior Hardware Security Engineer at Huawei Technologies (2025–2026). I received my Ph.D. from Zhejiang University in 2025, advised by <a href="https://scholar.google.com/citations?user=FCsdj0YAAAAJ">Prof. Wenyuan Xu</a> and <a href="https://scholar.google.com/citations?hl=zh-CN&user=9D4UYBoAAAAJ">Prof. Xiaoyu Ji</a>, and my B.E. from Nanjing University of Posts and Telecommunications in 2020.
 </span><span class="lang-zh" style="display:none">
-我于2026年9月加入广州大学，现任<a href="https://wyy.gzhu.edu.cn/">网络空间安全学院</a><a href="https://wyy.gzhu.edu.cn/szdw/yjssz/znaqyjs.htm">智能安全研究所</a>百人计划副教授。此前于2025–2026年在华为技术有限公司担任高级硬件安全工程师。2025年于浙江大学获得博士学位，师从<a href="https://scholar.google.com/citations?user=FCsdj0YAAAAJ">徐文渊教授</a>和<a href="https://scholar.google.com/citations?hl=zh-CN&user=9D4UYBoAAAAJ">冀晓宇教授</a>；2020年于南京邮电大学获得学士学位。
+我于2026年9月加入广州大学，现任<a href="https://wyy.gzhu.edu.cn/">网络空间安全学院</a><a href="https://wyy.gzhu.edu.cn/szdw/yjssz/znaqyjs.htm">智能安全研究所</a>百人计划副教授，在<a href="https://wyy.gzhu.edu.cn/info/1158/1573.html">殷丽华教授</a>课题组开展研究工作。此前于2025–2026年在华为技术有限公司担任高级硬件安全工程师。2025年于浙江大学获得博士学位，师从<a href="https://scholar.google.com/citations?user=FCsdj0YAAAAJ">徐文渊教授</a>和<a href="https://scholar.google.com/citations?hl=zh-CN&user=9D4UYBoAAAAJ">冀晓宇教授</a>；2020年于南京邮电大学获得学士学位。
 </span>
 
 <span class="lang-en">
@@ -42,18 +42,18 @@ My research focuses on IoT, hardware, and embodied AI security, particularly sen
 
 # 🔥 <span class="lang-en">News</span><span class="lang-zh" style="display:none">新闻动态</span>
 
-- *2026.10*: &nbsp;🎉🎉 <span class="lang-en">[Guangzhou University's Cyberspace Security discipline ranked **1st in China** by Shanghai Ranking 2026!](https://www.shanghairanking.cn/rankings/bcsr/2026/0839)</span><span class="lang-zh" style="display:none">[广州大学网络空间安全学科荣登**2026软科中国最好学科排名全国第一**！](https://www.shanghairanking.cn/rankings/bcsr/2026/0839)</span>
-- *2026.09.18*: &nbsp;🎉🎉 <span class="lang-en">Attended the China Cyber Security Conference (CCSC) 2026 in Hefei, China!</span><span class="lang-zh" style="display:none">参加2026年中国网络空间安全大会！</span>
-- *2026.09.11*: &nbsp;🎉🎉 <span class="lang-en">Participated the 11th "Maker China" Intelligent Bionic Robotics SME Innovation and Entrepreneurship Competition in Chongqing, China, and won Third Prize!</span><span class="lang-zh" style="display:none">参加第十一届"创客中国"智能仿生机器人中小企业创新创业大赛（重庆），荣获三等奖！</span>
-- *2026.04.23*: &nbsp;🎉🎉 <span class="lang-en">Attended the BlackHat Asia 2026 in Singapore!</span><span class="lang-zh" style="display:none">参加2026年BlackHat Asia（新加坡）！</span>
-- *2026.03.03*: &nbsp;🎉🎉 <span class="lang-en">One paper is accepted by the CVPR 2026!</span><span class="lang-zh" style="display:none">一篇论文被CVPR 2026接收！</span>
-- *2025.08.15*: &nbsp;🎉🎉 <span class="lang-en">One paper is accepted by the NDSS Syposium 2026!</span><span class="lang-zh" style="display:none">一篇论文被NDSS Symposium 2026接收！</span>
-- *2025.05.27*: &nbsp;🎉🎉 <span class="lang-en">Successfully defended my Ph.D. thesis!</span><span class="lang-zh" style="display:none">顺利通过博士论文答辩！</span>
-- *2025.04.19*: &nbsp;🎉🎉 <span class="lang-en">Attended the ICCCS 2025 in Sichuan, China, and received the certificate of Best Presentation!</span><span class="lang-zh" style="display:none">参加ICCCS 2025（四川），荣获最佳报告证书！</span>
-- *2025.03.30*: &nbsp;🎉🎉 <span class="lang-en">Accepted paper for presentation at the ICCCS 2025!</span><span class="lang-zh" style="display:none">论文被ICCCS 2025接收！</span>
-- *2025.02.24*: &nbsp;🎉🎉 <span class="lang-en">Attended the Network and Distributed System Security (NDSS) Syposium 2025 in San Diego, CA, from February 24th to 28th.</span><span class="lang-zh" style="display:none">参加NDSS 2025研讨会（加州圣地亚哥），时间2月24日至28日。</span>
-- *2024.12.21*: &nbsp;🎉🎉 <span class="lang-en">Accepted paper for presentation at the ICASSP 2025!</span><span class="lang-zh" style="display:none">一篇论文被ICASSP 2025接收！</span>
-- *2024.11.27*: &nbsp;🎉🎉 <span class="lang-en">Accepted paper for presentation at the NDSS Symposium 2025!</span><span class="lang-zh" style="display:none">一篇论文被NDSS Symposium 2025接收！</span>
+- <em class="nd">2026.10</em>: &nbsp;🎉🎉 <span class="lang-en">[Guangzhou University's Cyberspace Security discipline ranked **1st in China** by Shanghai Ranking 2026!](https://www.shanghairanking.cn/rankings/bcsr/2026/0839)</span><span class="lang-zh" style="display:none">[广州大学网络空间安全学科荣登**2026软科中国最好学科排名全国第一**！](https://www.shanghairanking.cn/rankings/bcsr/2026/0839)</span>
+- <em class="nd">2026.09.18</em>: &nbsp;🎉🎉 <span class="lang-en">Attended the China Cyber Security Conference (CCSC) 2026 in Hefei, China!</span><span class="lang-zh" style="display:none">参加2026年中国网络空间安全大会！</span>
+- <em class="nd">2026.09.11</em>: &nbsp;🎉🎉 <span class="lang-en">Participated the 11th "Maker China" Intelligent Bionic Robotics SME Innovation and Entrepreneurship Competition in Chongqing, China, and won Third Prize!</span><span class="lang-zh" style="display:none">参加第十一届"创客中国"智能仿生机器人中小企业创新创业大赛（重庆），荣获三等奖！</span>
+- <em class="nd">2026.04.23</em>: &nbsp;🎉🎉 <span class="lang-en">Attended the BlackHat Asia 2026 in Singapore!</span><span class="lang-zh" style="display:none">参加2026年BlackHat Asia（新加坡）！</span>
+- <em class="nd">2026.03.03</em>: &nbsp;🎉🎉 <span class="lang-en">One paper is accepted by the CVPR 2026!</span><span class="lang-zh" style="display:none">一篇论文被CVPR 2026接收！</span>
+- <em class="nd">2025.08.15</em>: &nbsp;🎉🎉 <span class="lang-en">One paper is accepted by the NDSS Syposium 2026!</span><span class="lang-zh" style="display:none">一篇论文被NDSS Symposium 2026接收！</span>
+- <em class="nd">2025.05.27</em>: &nbsp;🎉🎉 <span class="lang-en">Successfully defended my Ph.D. thesis!</span><span class="lang-zh" style="display:none">顺利通过博士论文答辩！</span>
+- <em class="nd">2025.04.19</em>: &nbsp;🎉🎉 <span class="lang-en">Attended the ICCCS 2025 in Sichuan, China, and received the certificate of Best Presentation!</span><span class="lang-zh" style="display:none">参加ICCCS 2025（四川），荣获最佳报告证书！</span>
+- <em class="nd">2025.03.30</em>: &nbsp;🎉🎉 <span class="lang-en">Accepted paper for presentation at the ICCCS 2025!</span><span class="lang-zh" style="display:none">论文被ICCCS 2025接收！</span>
+- <em class="nd">2025.02.24</em>: &nbsp;🎉🎉 <span class="lang-en">Attended the Network and Distributed System Security (NDSS) Syposium 2025 in San Diego, CA, from February 24th to 28th.</span><span class="lang-zh" style="display:none">参加NDSS 2025研讨会（加州圣地亚哥），时间2月24日至28日。</span>
+- <em class="nd">2024.12.21</em>: &nbsp;🎉🎉 <span class="lang-en">Accepted paper for presentation at the ICASSP 2025!</span><span class="lang-zh" style="display:none">一篇论文被ICASSP 2025接收！</span>
+- <em class="nd">2024.11.27</em>: &nbsp;🎉🎉 <span class="lang-en">Accepted paper for presentation at the NDSS Symposium 2025!</span><span class="lang-zh" style="display:none">一篇论文被NDSS Symposium 2025接收！</span>
 
 <p style="margin-top:2em; font-size:0.8em; color:#aaa; text-align:center;">
 <span class="lang-en">This page is built upon the <a href="https://github.com/RayeRen/acad-homepage.github.io" style="color:#aaa;">AcadHomepage</a> template, with customizations.</span><span class="lang-zh" style="display:none">本页面基于 <a href="https://github.com/RayeRen/acad-homepage.github.io" style="color:#aaa;">AcadHomepage</a> 模板改良构建。</span>
@@ -148,22 +148,22 @@ Shilin Xiao, Wenjun Zhu, **Yan Jiang**, Kai Wang, Peiwang Wang, Chen Yan, Xiaoyu
 
 # 🏅 <span class="lang-en">Honors</span><span class="lang-zh" style="display:none">荣誉称号</span>
 
-- *2025.06*: <span class="lang-en">Outstanding Graduate, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学优秀毕业生</span>
-- *2024.12*: <span class="lang-en">Honor for Graduates — Advanced Group, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学研究生荣誉称号——先进集体</span>
-- *2024.12*: <span class="lang-en">Outstanding Graduate Student Cadre, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学优秀研究生干部</span>
-- *2024.12*: <span class="lang-en">Award of Honor for Graduate, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学研究生荣誉称号</span>
-- *2023.12*: <span class="lang-en">Honor for Graduates — Excellent in Labor Education, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学研究生荣誉——劳动教育优秀</span>
-- *2022.12*: <span class="lang-en">Award of Honor for Graduate, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学研究生荣誉称号</span>
-- *2022.12*: <span class="lang-en">Honor for Graduates — Civilized Dormitory, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学研究生荣誉——文明寝室</span>
-- *2021.12*: <span class="lang-en">Graduate of Merit / Triple A Graduate, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学三好研究生</span>
-- *2021.12*: <span class="lang-en">Award of Honor for Graduate, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学研究生荣誉称号</span>
+- <em class="nd">2025.06</em>: <span class="lang-en">Outstanding Graduate, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学优秀毕业生</span>
+- <em class="nd">2024.12</em>: <span class="lang-en">Honor for Graduates — Advanced Group, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学研究生荣誉称号——先进集体</span>
+- <em class="nd">2024.12</em>: <span class="lang-en">Outstanding Graduate Student Cadre, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学优秀研究生干部</span>
+- <em class="nd">2024.12</em>: <span class="lang-en">Award of Honor for Graduate, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学研究生荣誉称号</span>
+- <em class="nd">2023.12</em>: <span class="lang-en">Honor for Graduates — Excellent in Labor Education, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学研究生荣誉——劳动教育优秀</span>
+- <em class="nd">2022.12</em>: <span class="lang-en">Award of Honor for Graduate, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学研究生荣誉称号</span>
+- <em class="nd">2022.12</em>: <span class="lang-en">Honor for Graduates — Civilized Dormitory, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学研究生荣誉——文明寝室</span>
+- <em class="nd">2021.12</em>: <span class="lang-en">Graduate of Merit / Triple A Graduate, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学三好研究生</span>
+- <em class="nd">2021.12</em>: <span class="lang-en">Award of Honor for Graduate, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学研究生荣誉称号</span>
 
 # 🎖 <span class="lang-en">Awards</span><span class="lang-zh" style="display:none">获奖</span>
 
-- *2026.09*: <span class="lang-en">Third Prize, 11th "Maker China" Intelligent Bionic Robotics SME Innovation and Entrepreneurship Competition</span><span class="lang-zh" style="display:none">第十一届"创客中国"智能仿生机器人中小企业创新创业大赛三等奖</span>
-- *2025.04*: <span class="lang-en">Certificate of Best Presentation, ICCCS 2025</span><span class="lang-zh" style="display:none">ICCCS 2025最佳报告证书</span>
-- *2024.12*: <span class="lang-en">Kai Li Scholarship, College of Electrical Engineering, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学电气工程学院凯利奖学金</span>
-- *2021.12*: <span class="lang-en">Duan Wei Scholarship, College of Electrical Engineering, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学电气工程学院段威奖学金</span>
+- <em class="nd">2026.09</em>: <span class="lang-en">Third Prize, 11th "Maker China" Intelligent Bionic Robotics SME Innovation and Entrepreneurship Competition</span><span class="lang-zh" style="display:none">第十一届"创客中国"智能仿生机器人中小企业创新创业大赛三等奖</span>
+- <em class="nd">2025.04</em>: <span class="lang-en">Certificate of Best Presentation, ICCCS 2025</span><span class="lang-zh" style="display:none">ICCCS 2025最佳报告证书</span>
+- <em class="nd">2024.12</em>: <span class="lang-en">Kai Li Scholarship, College of Electrical Engineering, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学电气工程学院凯利奖学金</span>
+- <em class="nd">2021.12</em>: <span class="lang-en">Duan Wei Scholarship, College of Electrical Engineering, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学电气工程学院段威奖学金</span>
 
 </div>
 
