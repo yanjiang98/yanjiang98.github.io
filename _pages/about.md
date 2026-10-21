@@ -20,6 +20,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 👤 <span class="lang-en">About Me</span><span class="lang-zh" style="display:none">个人简介</span>
 
 <span class="lang-en">
 I am an Associate Professor (Hundred Talents Program) at the <a href="https://wyy.gzhu.edu.cn/">School of Cyberspace Security</a>, Institute of Intelligent Security, Guangzhou University, since September 2026. Previously, I was a Senior Hardware Security Engineer at Huawei Technologies (2025–2026). I received my Ph.D. from Zhejiang University in 2025, advised by <a href="https://scholar.google.com/citations?user=FCsdj0YAAAAJ">Prof. Wenyuan Xu</a> and <a href="https://scholar.google.com/citations?hl=zh-CN&user=9D4UYBoAAAAJ">Prof. Xiaoyu Ji</a>, and my B.E. from Nanjing University of Posts and Telecommunications in 2020.
@@ -125,12 +126,12 @@ Shilin Xiao, Wenjun Zhu, **Yan Jiang**, Kai Wang, Peiwang Wang, Chen Yan, Xiaoyu
 <!-- ========== ACADEMIC PROFILE ========== -->
 <div class="tab-section" id="section-academic-profile" style="display:none" markdown="1">
 
-# 📖 <span class="lang-en">Education</span><span class="lang-zh" style="display:none">教育背景</span>
+# 🎓 <span class="lang-en">Education</span><span class="lang-zh" style="display:none">教育背景</span>
 
 - *2020.09 - 2025.06*, <span class="lang-en">Ph.D., College of Electrical Engineering, Zhejiang University</span><span class="lang-zh" style="display:none">博士，浙江大学电气工程学院</span>
 - *2016.09 - 2020.09*, <span class="lang-en">Undergraduate, College of Automation, Nanjing University of Posts and Telecommunications</span><span class="lang-zh" style="display:none">本科，南京邮电大学自动化学院</span>
 
-# 📖 <span class="lang-en">Services</span><span class="lang-zh" style="display:none">学术服务</span>
+# 🤝 <span class="lang-en">Services</span><span class="lang-zh" style="display:none">学术服务</span>
 
 - <span class="lang-en">Reviewer for leading international journals and conferences:</span><span class="lang-zh" style="display:none">国际顶级期刊与会议审稿人：</span>
   - <span class="lang-en">*IEEE/ACM Transactions on Networking (ToN): 2026*</span><span class="lang-zh" style="display:none">*IEEE/ACM 网络学报（ToN）：2026*</span>
@@ -242,11 +243,11 @@ Shilin Xiao, Wenjun Zhu, **Yan Jiang**, Kai Wang, Peiwang Wang, Chen Yan, Xiaoyu
 
 ## <span class="lang-en">🏃 Hobbies</span><span class="lang-zh" style="display:none">🏃 兴趣爱好</span>
 
+---
+
 - <span class="lang-en">Half-marathon (*21.0975km, 7/50*)</span><span class="lang-zh" style="display:none">半程马拉松（*21.0975公里，7/50*）</span>
 - <span class="lang-en">Travel, photography</span><span class="lang-zh" style="display:none">旅行、摄影</span>
 - <span class="lang-en">Running, fitness, badminton</span><span class="lang-zh" style="display:none">跑步、健身、羽毛球</span>
-
----
 
 </div>
 
