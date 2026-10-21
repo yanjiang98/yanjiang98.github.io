@@ -15,8 +15,8 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<!-- ========== HOME SECTION ========== -->
-<div class="tab-section" id="section-home">
+<!-- ========== HOME ========== -->
+<div class="tab-section" id="section-home" markdown="1">
 
 <span class='anchor' id='about-me'></span>
 
@@ -40,7 +40,7 @@ During my Ph.D. studies at Zhejiang University, I was advised by <a href="https:
 
 <span class="lang-en">The template for this page is credited to [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io).</span><span class="lang-zh" style="display:none">本页面模板来自 [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io)。</span>
 
-<h1 id="-news">🔥 <span class="lang-en">News</span><span class="lang-zh" style="display:none">新闻动态</span></h1>
+# 🔥 <span class="lang-en">News</span><span class="lang-zh" style="display:none">新闻动态</span>
 
 - *2026.09.18*: &nbsp;🎉🎉 <span class="lang-en">Attended the China Cyber Security Conference (CCSC) 2026 in Hefei, China!</span><span class="lang-zh" style="display:none">参加2026年中国网络空间安全大会！</span>
 - *2026.09.11*: &nbsp;🎉🎉 <span class="lang-en">Participated the 11th "Maker China" Intelligent Bionic Robotics SME Innovation and Entrepreneurship Competition in Chongqing, China, and won Third Prize!</span><span class="lang-zh" style="display:none">参加第十一届"创客中国"智能仿生机器人中小企业创新创业大赛（重庆），荣获三等奖！</span>
@@ -56,10 +56,10 @@ During my Ph.D. studies at Zhejiang University, I was advised by <a href="https:
 
 </div>
 
-<!-- ========== PUBLICATIONS SECTION ========== -->
-<div class="tab-section" id="section-publications" style="display:none">
+<!-- ========== PUBLICATIONS ========== -->
+<div class="tab-section" id="section-publications" style="display:none" markdown="1">
 
-<h1 id="-publications">📝 <span class="lang-en">Publications</span><span class="lang-zh" style="display:none">发表论文</span></h1>
+# 📝 <span class="lang-en">Publications</span><span class="lang-zh" style="display:none">发表论文</span>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NDSS 2025</div><img src='images/powerradio-img.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -106,7 +106,7 @@ Shilin Xiao, Wenjun Zhu, **Yan Jiang**, Kai Wang, Peiwang Wang, Chen Yan, Xiaoyu
 
 - [Capspeaker: Injecting Commands to Voice Assistant via Capacitors](https://ieeexplore.ieee.org/abstract/document/10288392). **Yan Jiang**, Xiaoyu Ji, Juchuan Zhang, Yancheng Jiang, Shui Jiang, Wenyuan Xu. *TDSC*, 2024.
 
-<h1 id="-authorized-patents">📝 <span class="lang-en">Authorized Patents</span><span class="lang-zh" style="display:none">授权专利</span></h1>
+# 📝 <span class="lang-en">Authorized Patents</span><span class="lang-zh" style="display:none">授权专利</span>
 
 - <span class="lang-en">Invention Patent: *ZL202510402101.X* - Defense Device and Method Against Physical Backdoor Attacks in Biometric Recognition Systems. (**Yan Jiang**; Wenyuan Xu; Xiaoyu Ji)</span><span class="lang-zh" style="display:none">发明专利：*ZL202510402101.X*——针对生物信息识别系统物理后门攻击的防御装置和方法。(**蒋燕**；徐文渊；冀晓宇)</span>
 - <span class="lang-en">Invention Patent: *ZL202310264136.2* - Anomaly Detection Device and Method Based on Power Analysis of Cryptographic Chips. (Wenyuan Xu; Xiaoyu Ji; **Yan Jiang**)</span><span class="lang-zh" style="display:none">发明专利：*ZL202310264136.2*——一种基于密码芯片功耗分析的异常检测装置和方法。(徐文渊；冀晓宇；**蒋燕**)</span>
@@ -118,31 +118,30 @@ Shilin Xiao, Wenjun Zhu, **Yan Jiang**, Kai Wang, Peiwang Wang, Chen Yan, Xiaoyu
 
 </div>
 
-<!-- ========== ACADEMIC PROFILE SECTION ========== -->
-<div class="tab-section" id="section-academic-profile" style="display:none">
+<!-- ========== ACADEMIC PROFILE ========== -->
+<div class="tab-section" id="section-academic-profile" style="display:none" markdown="1">
 
-<h1 id="-educations">📖 <span class="lang-en">Education</span><span class="lang-zh" style="display:none">教育背景</span></h1>
+# 📖 <span class="lang-en">Education</span><span class="lang-zh" style="display:none">教育背景</span>
 
 - *2020.09 - 2025.06*, <span class="lang-en">Ph.D., College of Electrical Engineering, Zhejiang University</span><span class="lang-zh" style="display:none">博士，浙江大学电气工程学院</span>
 - *2016.09 - 2020.09*, <span class="lang-en">Undergraduate, College of Automation, Nanjing University of Posts and Telecommunications</span><span class="lang-zh" style="display:none">本科，南京邮电大学自动化学院</span>
 
-<h1 id="-services">📖 <span class="lang-en">Services</span><span class="lang-zh" style="display:none">学术服务</span></h1>
+# 📖 <span class="lang-en">Services</span><span class="lang-zh" style="display:none">学术服务</span>
 
 - <span class="lang-en">Reviewer for leading international journals and conferences:</span><span class="lang-zh" style="display:none">国际顶级期刊与会议审稿人：</span>
   - <span class="lang-en">*IEEE/ACM Transactions on Networking (ToN): 2026*</span><span class="lang-zh" style="display:none">*IEEE/ACM 网络学报（ToN）：2026*</span>
   - <span class="lang-en">*IEEE Transactions on Information Forensics and Security (TIFS): 2026*</span><span class="lang-zh" style="display:none">*IEEE 信息取证与安全汇刊（TIFS）：2026*</span>
   - <span class="lang-en">*IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP): 2025*</span><span class="lang-zh" style="display:none">*IEEE 国际声学、语音与信号处理会议（ICASSP）：2025*</span>
-
 - <span class="lang-en">Committee Member, Technical Committee on Electromagnetic and Signal Security, China Cyber Security Society (CCSS): 2026–2031</span><span class="lang-zh" style="display:none">中国网络空间安全学会电磁及信号安全专业委员会委员：2026–2031年</span>
 - <span class="lang-en">External Reviewer of "Big Four", *i.e.*, *IEEE SP*, *USENIX Security*, *ACM CCS*, and *NDSS*</span><span class="lang-zh" style="display:none">"四大顶会"（*IEEE SP*、*USENIX Security*、*ACM CCS*、*NDSS*）外部审稿人</span>
 - <span class="lang-en">Certificate for Red Cross First Aider (2021.4-2024.4).</span><span class="lang-zh" style="display:none">红十字急救员证书（2021.4-2024.4）</span>
 
 </div>
 
-<!-- ========== AWARDS SECTION ========== -->
-<div class="tab-section" id="section-awards" style="display:none">
+<!-- ========== AWARDS ========== -->
+<div class="tab-section" id="section-awards" style="display:none" markdown="1">
 
-<h1 id="-honors-and-awards">🎖 <span class="lang-en">Honors and Awards</span><span class="lang-zh" style="display:none">荣誉奖励</span></h1>
+# 🎖 <span class="lang-en">Honors and Awards</span><span class="lang-zh" style="display:none">荣誉奖励</span>
 
 - *2025.06*: <span class="lang-en">Outstanding Graduate, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学优秀毕业生</span>
 - *2025.04*: <span class="lang-en">Certificate of Best Presentation, ICCCS 2025.</span><span class="lang-zh" style="display:none">ICCCS 2025最佳报告证书</span>
@@ -159,23 +158,23 @@ Shilin Xiao, Wenjun Zhu, **Yan Jiang**, Kai Wang, Peiwang Wang, Chen Yan, Xiaoyu
 
 </div>
 
-<!-- ========== TEACHING SECTION ========== -->
-<div class="tab-section" id="section-teaching" style="display:none">
+<!-- ========== TEACHING ========== -->
+<div class="tab-section" id="section-teaching" style="display:none" markdown="1">
 
-<h1 id="-teaching">🎓 <span class="lang-en">Teaching</span><span class="lang-zh" style="display:none">教学</span></h1>
+# 🎓 <span class="lang-en">Teaching</span><span class="lang-zh" style="display:none">教学</span>
 
-<!-- TODO: Add teaching experience, courses taught, and student mentorship here -->
+<!-- TODO: Add teaching experience here -->
 
 </div>
 
-<!-- ========== LIFE SECTION ========== -->
-<div class="tab-section" id="section-life" style="display:none">
+<!-- ========== LIFE ========== -->
+<div class="tab-section" id="section-life" style="display:none" markdown="1">
 
-<h1 id="-life">🌿 <span class="lang-en">Life</span><span class="lang-zh" style="display:none">生活</span></h1>
+# 🌿 <span class="lang-en">Life</span><span class="lang-zh" style="display:none">生活</span>
 
-<h2><span class="lang-en">👨‍🍳 My Personal Chef</span><span class="lang-zh" style="display:none">👨‍🍳 我家厨神（御用厨师）</span></h2>
+## <span class="lang-en">👨‍🍳 My Personal Chef</span><span class="lang-zh" style="display:none">👨‍🍳 我家厨神（御用厨师）</span>
 
-<!-- TODO: Replace with actual photo, e.g. /images/life-husband.jpg -->
+<!-- TODO: Replace with actual photo path /images/life-husband.jpg -->
 <div style="text-align:center; margin: 1em 0;">
   <img src="/images/life-husband.jpg" alt="My husband" style="max-width:400px; width:100%; border-radius:8px;"
     onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
@@ -184,9 +183,9 @@ Shilin Xiao, Wenjun Zhu, **Yan Jiang**, Kai Wang, Peiwang Wang, Chen Yan, Xiaoyu
   </div>
 </div>
 
-<h2><span class="lang-en">🐱 Taizi, My Cat</span><span class="lang-zh" style="display:none">🐱 猫咪"太子"</span></h2>
+## <span class="lang-en">🐱 Taizi, My Cat</span><span class="lang-zh" style="display:none">🐱 猫咪"太子"</span>
 
-<!-- TODO: Replace with actual photo, e.g. /images/life-taizi.jpg -->
+<!-- TODO: Replace with actual photo path /images/life-taizi.jpg -->
 <div style="text-align:center; margin: 1em 0;">
   <img src="/images/life-taizi.jpg" alt="Taizi the cat" style="max-width:400px; width:100%; border-radius:8px;"
     onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
@@ -195,7 +194,7 @@ Shilin Xiao, Wenjun Zhu, **Yan Jiang**, Kai Wang, Peiwang Wang, Chen Yan, Xiaoyu
   </div>
 </div>
 
-<h2><span class="lang-en">🏃 Hobbies</span><span class="lang-zh" style="display:none">🏃 兴趣爱好</span></h2>
+## <span class="lang-en">🏃 Hobbies</span><span class="lang-zh" style="display:none">🏃 兴趣爱好</span>
 
 - <span class="lang-en">Half-marathon (*21.0975km, 7/50*)</span><span class="lang-zh" style="display:none">半程马拉松（*21.0975公里，7/50*）</span>
 - <span class="lang-en">Travel, photography</span><span class="lang-zh" style="display:none">旅行、摄影</span>
@@ -219,10 +218,28 @@ function showSection(sectionId) {
 
 function getSectionFromHash() {
   var hash = window.location.hash.replace('#', '');
-  return hash || 'home';
+  if (!hash || hash === 'about-me') return 'home';
+  return hash;
 }
 
-window.addEventListener('hashchange', function() {
+function initNavLinks() {
+  var navLinks = document.querySelectorAll('.visible-links a, .hidden-links a');
+  navLinks.forEach(function(link) {
+    link.addEventListener('click', function(e) {
+      var href = this.getAttribute('href') || '';
+      var hash = href.replace(/^.*#/, '');
+      if (!hash) return;
+      e.preventDefault();
+      var sectionId = (hash === 'about-me') ? 'home' : hash;
+      var newUrl = (sectionId === 'home') ? '/' : '/#' + sectionId;
+      history.pushState(null, '', newUrl);
+      showSection(sectionId);
+      window.scrollTo(0, 0);
+    });
+  });
+}
+
+window.addEventListener('popstate', function() {
   showSection(getSectionFromHash());
   window.scrollTo(0, 0);
 });
@@ -249,6 +266,7 @@ function setLang(lang) {
 
 document.addEventListener('DOMContentLoaded', function() {
   showSection(getSectionFromHash());
+  initNavLinks();
   var saved = 'en';
   try { saved = localStorage.getItem('preferredLang') || 'en'; } catch(e) {}
   setLang(saved);
