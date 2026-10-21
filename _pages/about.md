@@ -159,7 +159,7 @@ Shilin Xiao, Wenjun Zhu, **Yan Jiang**, Kai Wang, Peiwang Wang, Chen Yan, Xiaoyu
 
 - *2026.09*: <span class="lang-en">Third Prize, 11th "Maker China" Intelligent Bionic Robotics SME Innovation and Entrepreneurship Competition</span><span class="lang-zh" style="display:none">第十一届"创客中国"智能仿生机器人中小企业创新创业大赛三等奖</span>
 - *2025.04*: <span class="lang-en">Certificate of Best Presentation, ICCCS 2025</span><span class="lang-zh" style="display:none">ICCCS 2025最佳报告证书</span>
-- *2024.12*: <span class="lang-en">Kai Li Scholarship, College of Electrical Engineering, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学电气工程学院凯黎奖学金</span>
+- *2024.12*: <span class="lang-en">Kai Li Scholarship, College of Electrical Engineering, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学电气工程学院凯利奖学金</span>
 - *2021.12*: <span class="lang-en">Duan Wei Scholarship, College of Electrical Engineering, Zhejiang University</span><span class="lang-zh" style="display:none">浙江大学电气工程学院段威奖学金</span>
 
 </div>
