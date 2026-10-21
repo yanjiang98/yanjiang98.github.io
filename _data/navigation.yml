@@ -1,16 +1,16 @@
 # main links links
 main:
   - title: "Publications"
-    url: "/publications/"
+    url: "/#publications"
 
   - title: "Academic Profile"
-    url: "/academic-profile/"
+    url: "/#academic-profile"
 
   - title: "Honors & Awards"
-    url: "/awards/"
+    url: "/#awards"
 
   - title: "Teaching"
-    url: "/teaching/"
+    url: "/#teaching"
 
   - title: "Life"
-    url: "/life/"
+    url: "/#life"
