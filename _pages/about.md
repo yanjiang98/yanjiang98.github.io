@@ -19,7 +19,7 @@ redirect_from:
 
 
 <span class="lang-en">
-I am currently an Associate Professor (Hundred Talents Program) at the <a href="https://wyy.gzhu.edu.cn/">School of Cyberspace Security</a>, <a href="https://wyy.gzhu.edu.cn/szdw/yjssz/znaqyjs.htm">Institute of Intelligent Security</a>, Guangzhou University, which I joined in September 2026. Prior to that, I worked as a Senior Hardware Security Engineer at Huawei Technologies Co., Ltd. from 2025 to 2026. I received my Ph.D. degree from the College of Electrical Engineering at Zhejiang University in 2025 and my B.E. degree from the College of Automation at Nanjing University of Posts and Telecommunications in 2020.
+I am currently an Associate Professor at the <a href="https://wyy.gzhu.edu.cn/">School of Cyberspace Security</a>, <a href="https://wyy.gzhu.edu.cn/szdw/yjssz/znaqyjs.htm">Institute of Intelligent Security</a>, Guangzhou University, which I joined in September 2026. Prior to that, I worked as a Senior Hardware Security Engineer at Huawei Technologies Co., Ltd. from 2025 to 2026. I received my Ph.D. degree from the College of Electrical Engineering at Zhejiang University in 2025 and my B.E. degree from the College of Automation at Nanjing University of Posts and Telecommunications in 2020.
 </span><span class="lang-zh" style="display:none">
 我于2026年9月加入广州大学，现任<a href="https://wyy.gzhu.edu.cn/">网络空间安全学院</a><a href="https://wyy.gzhu.edu.cn/szdw/yjssz/znaqyjs.htm">智能安全研究所</a>百人计划副教授。此前，2025年至2026年在华为技术有限公司担任高级硬件安全工程师。我于2025年在浙江大学电气工程学院获得博士学位，于2020年在南京邮电大学自动化学院获得学士学位。
 </span>
@@ -138,9 +138,17 @@ Shilin Xiao, Wenjun Zhu, **Yan Jiang**, Kai Wang, Peiwang Wang, Chen Yan, Xiaoyu
 
 <h1 id="-services">📖 <span class="lang-en">Services</span><span class="lang-zh" style="display:none">学术服务</span></h1>
 
+- <span class="lang-en">Reviewer for leading international journals and conferences:</span><span class="lang-zh" style="display:none">国际顶级期刊与会议审稿人：</span>
+<br><br>
+  - <span class="lang-en">*IEEE/ACM Transactions on Networking (ToN): 2026*</span><span class="lang-zh" style="display:none">*IEEE/ACM 网络学报（ToN）：2026*</span>
+  - <span class="lang-en">*IEEE Transactions on Information Forensics and Security (TIFS): 2026*</span><span class="lang-zh" style="display:none">*IEEE 信息取证与安全汇刊（TIFS）：2026*</span>
+  - <span class="lang-en">*IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP): 2025*</span><span class="lang-zh" style="display:none">*IEEE 国际声学、语音与信号处理会议（ICASSP）：2025*</span>
+
+- <span class="lang-en">Committee Member, Technical Committee on Electromagnetic and Signal Security, China Cyber Security Society (CCSS): 2026–2031</span><span class="lang-zh" style="display:none">中国网络空间安全学会电磁及信号安全专业委员会委员：2026–2031年</span>
 - <span class="lang-en">External Reviewer of "Big Four", *i.e.*, *IEEE SP*, *USENIX Security*, *ACM CCS*, and *NDSS*</span><span class="lang-zh" style="display:none">"四大顶会"（*IEEE SP*、*USENIX Security*、*ACM CCS*、*NDSS*）外部审稿人</span>
-- <span class="lang-en">Reviewer of IEEE International Conference on Acoustics, Speech, and Signal (*ICASSP*).</span><span class="lang-zh" style="display:none">IEEE国际声学、语音与信号处理会议（*ICASSP*）审稿人</span>
 - <span class="lang-en">Certificate for Red Cross First Aider (2021.4-2024.4).</span><span class="lang-zh" style="display:none">红十字急救员证书（2021.4-2024.4）</span>
+
+
 
 <h1 id="-internships">💻 <span class="lang-en">Internships</span><span class="lang-zh" style="display:none">工作经历</span></h1>
 
