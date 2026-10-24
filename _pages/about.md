@@ -23,15 +23,15 @@ redirect_from:
 # 👤 <span class="lang-en">About Me</span><span class="lang-zh" style="display:none">个人简介</span>
 
 <span class="lang-en">
-I am an Associate Professor (Hundred Talents Program) at the <a href="https://wyy.gzhu.edu.cn/">School of Cyberspace Security</a>, Institute of Intelligent Security, Guangzhou University, working in the research group of <a href="https://wyy.gzhu.edu.cn/info/1158/1573.html">Prof. Lihua Yin</a>, since September 2026. Previously, I was a Senior Hardware Security Engineer at Huawei Technologies Co., Ltd.(2025–2026). I received my Ph.D. from Zhejiang University in 2025, advised by <a href="https://scholar.google.com/citations?user=FCsdj0YAAAAJ">Prof. Wenyuan Xu</a> and <a href="https://scholar.google.com/citations?hl=zh-CN&user=9D4UYBoAAAAJ">Prof. Xiaoyu Ji</a>, and my B.E. from Nanjing University of Posts and Telecommunications in 2020.
+I am an Associate Professor (Hundred Talents Program) at the <a href="https://wyy.gzhu.edu.cn/">School of Cyberspace Security</a>, Institute of Intelligent Security, Guangzhou University, working in the research group of <a href="https://wyy.gzhu.edu.cn/info/1158/1573.html">Prof. Lihua Yin</a>, since September 2026. Previously, I was a Senior Hardware Security Engineer at <a href="https://www.huawei.com/en">HUAWEI</a> Technologies Co., Ltd.(2025–2026). I received my Ph.D. from Zhejiang University in 2025, advised by <a href="https://scholar.google.com/citations?user=FCsdj0YAAAAJ">Prof. Wenyuan Xu</a> and <a href="https://scholar.google.com/citations?hl=zh-CN&user=9D4UYBoAAAAJ">Prof. Xiaoyu Ji</a>, and my B.E. from Nanjing University of Posts and Telecommunications in 2020.
 </span><span class="lang-zh" style="display:none">
-我于2026年9月加入广州大学，现任<a href="https://wyy.gzhu.edu.cn/">网络空间安全学院</a><a href="https://wyy.gzhu.edu.cn/szdw/yjssz/znaqyjs.htm">智能系统安全研究所</a>百人计划副教授，在<a href="https://wyy.gzhu.edu.cn/info/1158/1573.html">殷丽华教授</a>课题组开展研究工作。此前于2025–2026年在华为技术有限公司担任高级硬件安全工程师。2025年于浙江大学获得博士学位，师从<a href="https://scholar.google.com/citations?user=FCsdj0YAAAAJ">徐文渊教授</a>和<a href="https://scholar.google.com/citations?hl=zh-CN&user=9D4UYBoAAAAJ">冀晓宇教授</a>；2020年于南京邮电大学获得学士学位。
+我于2026年9月加入广州大学，现任<a href="https://wyy.gzhu.edu.cn/">网络空间安全学院</a><a href="https://wyy.gzhu.edu.cn/szdw/yjssz/znaqyjs.htm">智能系统安全研究所</a>百人计划副教授，在<a href="https://wyy.gzhu.edu.cn/info/1158/1573.html">殷丽华教授</a>课题组开展研究工作。此前于2025–2026年在<a href="https://www.huawei.com/cn">华为</a>技术有限公司担任高级硬件安全工程师。2025年于浙江大学获得博士学位，师从<a href="https://scholar.google.com/citations?user=FCsdj0YAAAAJ">徐文渊教授</a>和<a href="https://scholar.google.com/citations?hl=zh-CN&user=9D4UYBoAAAAJ">冀晓宇教授</a>；2020年于南京邮电大学获得学士学位。
 </span>
 
 <span class="lang-en">
-My research focuses on IoT, hardware, and embodied AI security, particularly sensor and algorithm security, power side-channel analysis, and physical-layer attacks. My work has appeared in leading conferences and journals, including IEEE S&amp;P, NDSS, CVPR, ICASSP, and IEEE TDSC, and has attracted media coverage from Forbes, Sina, and other outlets.
+My research focuses on <strong>IoT</strong>, <strong>Hardware</strong>, and <strong>Embodied AI</strong> security, particularly sensor and algorithm security, power security, side-channel analysis, and physical-layer attacks. My work has appeared in leading conferences and journals, including IEEE S&amp;P, NDSS, CVPR, ICASSP, and IEEE TDSC, and has attracted media coverage from Forbes, Sina, and other outlets.
 </span><span class="lang-zh" style="display:none">
-我的研究方向主要包括物联网安全、硬件安全与具身智能安全，重点关注传感器与算法安全、功耗侧信道分析及物理层攻击。相关成果发表于IEEE S&amp;P、NDSS、CVPR、ICASSP和IEEE TDSC等国际顶级会议和期刊，并受到福布斯（Forbes）、新浪（Sina）等媒体关注与报道。
+我的研究方向主要包括<strong>物联网安全</strong>、<strong>硬件安全</strong>、<strong>具身智能安全</strong>，重点关注传感器与算法安全、电源安全、侧信道分析及物理层攻击。相关成果发表于IEEE S&amp;P、NDSS、CVPR、ICASSP和IEEE TDSC等国际顶级会议和期刊，并受到福布斯（Forbes）、新浪（Sina）等媒体关注与报道。
 </span>
 
 <span class="lang-en">
@@ -136,7 +136,7 @@ Shilin Xiao, Wenjun Zhu, **Yan Jiang**, Kai Wang, Peiwang Wang, Chen Yan, Xiaoyu
 - <span class="lang-en">Reviewer for leading international journals and conferences:</span><span class="lang-zh" style="display:none">国际顶级期刊与会议审稿人：</span>
   - <span class="lang-en">*IEEE/ACM Transactions on Networking (ToN): 2026*</span><span class="lang-zh" style="display:none">*IEEE/ACM 网络学报（ToN）：2026*</span>
   - <span class="lang-en">*IEEE Transactions on Information Forensics and Security (TIFS): 2026*</span><span class="lang-zh" style="display:none">*IEEE 信息取证与安全汇刊（TIFS）：2026*</span>
-  - <span class="lang-en">*IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP): 2025*</span><span class="lang-zh" style="display:none">*IEEE 国际声学、语音与信号处理会议（ICASSP）：2025*</span>
+  - <span class="lang-en">*IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP): 2026, 2027*</span><span class="lang-zh" style="display:none">*IEEE 国际声学、语音与信号处理会议（ICASSP）：2026, 2027*</span>
 - <span class="lang-en">Committee Member, Technical Committee on Electromagnetic and Signal Security, China Cyber Security Society (CCSS): 2026–2031</span><span class="lang-zh" style="display:none">中国网络空间安全学会电磁及信号安全专业委员会委员：2026–2031年</span>
 - <span class="lang-en">External Reviewer of "Big Four", *i.e.*, *IEEE SP*, *USENIX Security*, *ACM CCS*, and *NDSS*</span><span class="lang-zh" style="display:none">"四大顶会"（*IEEE SP*、*USENIX Security*、*ACM CCS*、*NDSS*）外部审稿人</span>
 - <span class="lang-en">Certificate for Red Cross First Aider (2021.4-2024.4).</span><span class="lang-zh" style="display:none">红十字急救员证书（2021.4-2024.4）</span>
