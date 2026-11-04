@@ -205,7 +205,7 @@ Shilin Xiao, Wenjun Zhu, **Yan Jiang**, Kai Wang, Peiwang Wang, Chen Yan, Xiaoyu
     <p style="margin:0.5em 0 0; font-size:0.85em; color:#666;">You Jinbin · 2026</p>
   </div>
   <div style="text-align:center; width:140px;">
-    <img src="/images/students/student-xuhuibin-life.jpg" alt="Xu Huibin" style="width:120px; height:160px; object-fit:cover; border-radius:6px;"
+    <img src="/images/students/student-xuhuibin.jpg" alt="Xu Huibin" style="width:120px; height:160px; object-fit:cover; border-radius:6px;"
       onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
     <div style="display:none; width:120px; height:160px; background:#f0f0f0; border-radius:6px; align-items:center; justify-content:center; color:#aaa; font-size:24px; margin:0 auto;">👤</div>
     <p class="lang-zh" style="display:none; margin:0.5em 0 0; font-weight:bold;">许辉彬</p>
