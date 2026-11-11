@@ -131,6 +131,12 @@ Shilin Xiao, Wenjun Zhu, **Yan Jiang**, Kai Wang, Peiwang Wang, Chen Yan, Xiaoyu
 - *2020.09 - 2025.06*, <span class="lang-en">Ph.D., College of Electrical Engineering, Zhejiang University</span><span class="lang-zh" style="display:none">博士，浙江大学电气工程学院</span>
 - *2016.09 - 2020.09*, <span class="lang-en">Undergraduate, College of Automation, Nanjing University of Posts and Telecommunications</span><span class="lang-zh" style="display:none">本科，南京邮电大学自动化学院</span>
 
+# 💼 <span class="lang-en">Work Experience</span><span class="lang-zh" style="display:none">工作背景</span>
+
+- *2025.08 - 2026.09*, <span class="lang-en">Senior Hardware Security Engineer, HUAWEI Technologies Co., Ltd.</span><span class="lang-zh" style="display:none">高级硬件工程师，华为技术有限公司</span>
+- *2066.09 - Now*, <span class="lang-en">Associate Professor, School of Cyberspace Security, Guangzhou University</span><span class="lang-zh" style="display:none">百人副教授，广州大学网络空间安全学院</span>
+
+
 # 🤝 <span class="lang-en">Services</span><span class="lang-zh" style="display:none">学术服务</span>
 
 - <span class="lang-en">Reviewer for leading international journals and conferences:</span><span class="lang-zh" style="display:none">国际顶级期刊与会议审稿人：</span>
